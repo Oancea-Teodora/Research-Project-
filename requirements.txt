@@ -1,0 +1,20 @@
+# Python Requirements for Romgaz Stock Prediction with BNR FS Lexicon
+
+# Core data science
+pandas>=1.5.0
+numpy>=1.23.0
+openpyxl>=3.0.0  # For Excel file reading
+
+# Machine learning
+scikit-learn>=1.2.0
+
+# Romanian NLP (critical for lemmatization)
+stanza>=1.4.0
+
+# Visualization (optional but recommended)
+matplotlib>=3.5.0
+seaborn>=0.12.0
+
+# Note: Stanza will download Romanian models on first use (~450MB)
+# Run: python -c "import stanza; stanza.download('ro')"
+
