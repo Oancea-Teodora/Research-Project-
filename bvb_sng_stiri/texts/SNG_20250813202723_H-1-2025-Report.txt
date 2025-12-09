@@ -1,0 +1,4765 @@
+CONSOLIDATED BOARD OF 
+DIRECTORS’ REPORT   
+IST HALF YEAR 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 2 of 53 
+ 
+SUMMARY   
+ 
+IDENTIFICATION DETAILS ON REPORT AND ISSUER ................................ ..........................  3 
+I. Ist Half Year 2025 Overview ................................ ................................ ................... 4 
+1.1. Romgaz Group Performances ................................ ................................ ............ 4 
+ ................................ ................................ ..........................  7 
+II. ROMGAZ GROUP OVERVIEW  ................................ ................................ ............ 9 
+III. REVIEW OF GROUP’S BUSINESS ................................ ................................ ........... 21 
+3.1. Operational Results ................................ ................................ ...................... 21 
+3.2. Consolidated Financial Results................................ ................................ ......... 22 
+3.3. Investments ................................ ................................ ...............................  23 
+IV. OTHER SIGNIFICANT ASPECTS  ................................ ................................ ..... 32 
+ ................................ ................................ ........................  32 
+4.2. Litigations................................ ................................ ................................ . 34 
+4.3. Legal documents concluded under Article 52 of GEO No. 109/2011 .............................  34 
+4.4. Main Risks and Uncertainties for H1 2025 ................................ ............................  35 
+4.5. Internal Public Audit ................................ ................................ .................... 36 
+4.6. Investor Relations ................................ ................................ ........................  36 
+4.7. Sponsorships ................................ ................................ ..............................  37 
+V. CONSOLIDATED FINANCIAL-ACCOUNTING STATEMENT ................................ ................ 38 
+5.1. Interim Statement of Consolidated Financial Position ................................ ............. 38 
+5.2. Interim Statement of Consolidated Comprehensive Income ................................ ....... 40 
+5.3. Statement of Consolidated Cash Flows ................................ ...............................  44 
+VI. PERFORMANCE OF CONTRACTS OF MANDATE OF BOARD MEMBERS AND OFFICERS  ............. 46 
+6.1. Performance Indicators of Non-Executive Board Members ................................ ........ 49 
+6.2. Performance Indicators of Executive Board Members and Officers ...............................  51 
+ 
+ 
+  
+
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 3 of 53 
+ 
+ 
+IDENTIFICATION DETAILS ON REPORT AND ISSUER  
+Report based on Law No. 24/2017 on issuers of financial instruments and market 
+operations (Article 67) and ASF Regulation (Financial Supervisory 
+Authority) No.5/2018 on issuers of financial instruments and 
+market operations (Annex No.14) for the six-month period ended 
+on June 30, 2025 (H1 of financial year 2025) 
+GEO No.109 of November 30, 2011 on corporate governance of 
+public enterprises, as subsequently amended and supplemented – 
+art.55 para (1) 
+Report Date August 14, 2025 
+Company Name Societatea Naţională de Gaze Naturale “ROMGAZ” SA 
+Headquarters Mediaş, Piaţa Constantin I. Motaş, nr.4, 551130, Sibiu 
+Telephone/fax number 0040 374 401020 / 0040 374 474325 
+Web/E-mail www.romgaz.ro / secretariat@romgaz.ro 
+Registration No. with the Trade 
+Register Office 
+J2001000392326 
+European Unique Identifier (EUID) ROONRC.J2001000392326 
+Fiscal Code RO14056826 
+Legal Entity Identifier (LEI) 2549009R7KJ38D9RW354 
+Regulated market where the 
+company’s shares are traded 
+Bucharest Stock Exchange 
+Subscribed and paid in share capital RON 3,854,224,000 
+Shares main characteristics 3,854,224,000 shares, each with a nominal value of RON 1 
+nominative, ordinary, indivisible shares, issued dematerialised 
+and free tradable since November 12, 2013 as SNG  
+ 
+  
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 4 of 53 
+ 
+I. Ist Half Year  202 5 Overview  
+Romgaz Group keeps high operational and financial performances in the first six months of 202 5 (H1 
+2025). 
+ 
+National gas consumption recorded an increase of roughly 4% for the first 6 months of 202 5 as 
+compared to the similar period of last year, while Romgaz deliveries increased by 10.5%. Therefore, 
+Romgaz market share2 is 47.2%, by 1.9% higher than the share held in the similar period of last year.  
+ 
+Natural gas production for the first half of 2025, was 2,485.6 million m3, indicating 0.05% production 
+decline related to the production recorded in H1 2024. 
+Condensate production for the first half of 2025 increased by 53% as compared to the same period of 
+2024. 
+ 
+Romgaz electricity production reached 341.47 GWh, lower by 109.29 GWh than the production 
+recorded in the similar period of 2024 (-24.24%).  
+ 
+Net consolidated profit recorded by Romgaz Group in H1 2025 was RON 1,679.2 million, 8.60% lower 
+as compared to H1 202 4, namely RON 15 7.98 million. Compared to Q2 202 4, net profit for Q2 2025 
+increased by 23.04%.  
+Consolidated net profit per share (EPS) was RON 0.44. 
+ 
+Margins of the main profitability indicators for H1 202 5: net consolidated profit  margin (39.53%), 
+consolidated EBIT (46.19%) and consolidated EBITDA (54.33%) continue to keep at high levels (H1 2024: 
+47.15%; 53.30% and 60.50% respectively).  
+ 
+Relevant financial results (consolidated) 
+*RON million* 
+Q2 
+2024 
+Q1 
+2025 
+Q2 
+2025 
+Δ Q2 
+(%) Main Indicators H1 
+2024 
+H1 
+2025 
+Δ H1 
+(%) 
+1,623.9  2,380.4 1,867.7 15.01 Revenue 3,896.9 4,248.1  9.01  
+1,796.4  2,447.9 2,066.2 15.87 Income 4,215.7 4,514.1  7.08  
+1,115.7  1,306.1 1,198.9 8.75 Expenses 2,050.0 2,505.0 22.19 
+ 1.4  2.2 1.6 16.61 Share of associates’ result 3.4 3.8 13.69 
+ 682.1  1,144.0 868.9 27.37 Gross Profit 2,169.0 2,012.9  -7.20 
+ 90.2  193.1 140.7 55.79 Profit Tax  331.8 333.7  0.57  
+ 591.9  951.0 728.3 23.04 Net Profit 1,837.2 1,679.2  -8.60 
+ 632.4  1,131.0 831.3 31.46 EBIT 2,077.1 1,962.3  -5.52 
+ 770.3  1,308.7 999.1 29.71 EBITDA 2,357.8 2,307.9  -2.12 
+ 0.15  0.25 0.19 23.04 Earnings per share *) (RON)  0.48  0.44  -8.60 
+ 36.45  39.95 38.99 6.98 Net Profit Rate (% from Revenue)  47.15  39.53  -16.15 
+ 38.94  47.52 44.51 14.30 EBIT ratio (% from Revenue)  53.30  46.19  -13.33 
+ 47.43  54.98 53.50 12.78 EBITDA ratio (% from Revenue)  60.50  54.33  -10.21 
+5,948 5,933 5,898 -0.84 
+Number of employees at the end 
+of the period 5,948 5,898 -0.84 
+ 
+ 
+Summary of the Group’s main indicators for H1 2025: 
+ 
+1 Romgaz Group consists of SNGN Romgaz SA (“SNGN Romgaz SA”/“The Company”/”Romgaz”) as parent company and the 
+subsidiaries SNGN Romgaz SA - Filiala de Înmagazinare Gaze Naturale Depogaz Ploiești SRL (“Depogaz”) and Romgaz Black Sea 
+Limited (“RBS”), both wholly owned by Romgaz . 
+2 Market share is calculated as a weight of Romgaz deliveries in the total national gas consumption. 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 5 of 53 
+ 
+ Total hydrocarbon production (natural gas and condensate) increased by 0.4% as compared to the 
+similar period of 2024. 
+ 
+ Total income rose by RON 298.4 million as compared to H1 2024, recording a growth of 7.08% due 
+to following factors: 
+• the rise by 9.38% of revenue from gas sales (RON 3,717.65 million in H1 2025 as compared 
+to RON 3,398.81 million in H1 2024), generated by the 12.3% increase of delivered gas 
+quantities as compared to H1 2024, despite a roughly 5% lower average sales price. In the 
+first half of 2 025, of the total delivered gas quantity, the Group delivered 77.26% at 
+regulated price (H1 2024: 65.17% of gas deliveries were at regulated price); 
+• Q2 2025 recorded an increase of quantities delivered at regulated price; therefore, if in 
+Q1 2025 quantities delivered at regulated price were 69.51% from deliveries, in Q2 2025 
+deliveries at regulated pr ice reached 86.64% ; this structure of deliveries led to the 
+decrease of specific taxes (royalties, windfall tax) by RON 278.10 million. In Q2 2025, 
+total deliveries decreased by 17.3% as compared to Q1 2025, the average price was 2.5% 
+lower. As a consequence, revenue from gas sales decreased by 22.5% in Q2 2025 as 
+compared to Q1 2025 (RON 1,623.19 million in Q2 2025 as compared to RON 2,094.45 
+million in Q1 2025); 
+• Revenue from storage services recorded an 8.44% increase (RON 275.55 million in H1 2025 
+as compared to RON 254.10 million in H1 2024), mainly due to higher income from 
+injection services (+RON 16.54 million) and due to income from capacity booking ( +RON 
+4.3 million). On June 30, 2025, 93.76% of the operational storage capacity was booked, 
+the storage filling level was 54.62%; 
+• Revenue from electricity sales (RON 177.3 million) represented 4.2% of the Group’s total 
+revenue, slightly dropping as compared to H1 2024 (-1.49%); 
+ Total expenses increased in H1 2025 by 22.19% (RON 454.99 million), mainly due to higher 
+expenses with taxes and duties (+RON 126.9 million), due to gas transmission expenses and 
+capacity booking (+RON 55.0 million) and due to expenses with interests and negative exchange 
+rate differences (+RON 106.05 million). 
+ 
+Operational results  
+Q2 
+2024 
+Q1 
+2025 
+Q2 2025 Δ Q2 
+(%) 
+Main Indicators H1        
+2024 
+H1 
+2025 
+Δ H1 
+(%) 
+1,195.9 1,285.4 1,200.2 0.35 Gross production (million m3) 2,486.9 2,485.6 -0.05 
+9,028.0 12,219 12,965.
+3 
+43.61 Condensate production (tonnes) 16,468.4 25,184.6 52.93 
+84.06 93.04 84.92 1.02 Petroleum royalty (million m3) 175.65 177.96 1.31 
+186.9 199.7 141.8 -24.15 Electricity production (GWh) 450.8 341.5 -24.24 
+35.9 1,213.6 35.9 0.0 
+Total gas withdrawn from UGS 
+(million m3)  983.6 1,249.5 27.0 
+779.6 33.8 895.9 14.9 
+Total gas injected in UGS (million 
+m3)  820.7 929.7 13.3 
+Note: the information is not consolidated, namely it contains transactions between Romgaz and Depogaz. 
+ 
+H1 2025 gas production was influenced by: 
+✓ well workover operations at wells with low productivity or inactive wells , reactivating 85 wells 
+with important flow rates; 
+✓ ongoing rehabilitation projects of main mature gas fields; 
+✓ optimisation of gas field exploitation; 
+✓ investments to expand production infrastructure and to connect new wells to it;  
+✓ production decline specific for production of hydrocarbon reservoirs. 
+ 
+National gas consumption estimated for H1 2025 was 58 TWh, roughly 4% higher than the consumption 
+recorded in H1 2024, out of which about 15 TWh was import gas and the difference of 4 3 TWh is gas 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 6 of 53 
+ 
+from domestic production, Romgaz deliveries (on the domestic market) being 27.4 TWh, representing 
+47.2% of the national consumption and 63.8% of the consumption covered with gas from domestic 
+production. 
+ 
+ 
+ 
+Electricity production is shown in the table below and its trend was closely related to the energy 
+demand, price trends on competitive markets and equipment maintenance and repair activities.  
+                *MWh* 
+ 2024 2025 Variation  
+1 2 3 4=(3-2)/2x100 
+Q1 263,832 199,703 - 24.30 
+Q2 186,937 141,775 - 24.15 
+H1 450,769 341,478 - 24.24 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 7 of 53 
+ 
+February 17, 2025 
+The Board of Directors set by Resolution No.9 of February 17, 2025, the members of the Nomination 
+and Remuneration Committee, as follows: 
+• Mr. Răzvan BRASLĂ - chairman 
+• Mr. Gheorghe Silvian SORICI – member 
+• Mr. Dan Dragoş DRĂGAN - member 
+ 
+March 19, 2025 
+The Board of Directors approve d conclusion of Addendum No.2 to the Contract for Design and 
+Execution of Works No. 40928/April 03, 2023, for “Completion of works and commissioning of the 
+investment Development of CTE Iernut by building a new combined cycle gas turbine power plant” 
+with Duro Felguera SA. According to the addendum, the contract price increases by RON 10,487,880 
+representing the value of additional technical assistance services provided by the subcontractor 
+General Electric. Addendum No.2 was signed on March 28, 2025. 
+ 
+March 25, 2025 
+OMV Petrom and ROMGAZ spud the first well for development and production of Pelican Sud and 
+Domino gas fields from Neptun Deep block, located 160 km offshore in the Black Sea. Therefore, 
+Neptun Deep project advances according to the plan, with the first estimated production in 2027. 
+ 
+April 14, 2025 
+The Ordinary General Meeting of Shareholders approved by Resolution No.2: 
+- SNGN Romgaz SA 2025 Individual Income and Expenditure Budget; 
+- revocation due to non-attributable causes, in order to fulfil milestone No. 121 of Romania’s 
+National Recovery and Resilience Plan, in accordance with the provisions of Art. 36.10 of the 
+Mandate Contract, of Mr. Dan-Dragos Dragan and Mr. Gheorghe-Silvian Sorici; 
+- election of Mr. Dumitru Chisăliță and Mr.  Cornel Benchea as interim board members for a 
+period of 5 months; 
+- start of the selection procedure for the vacant  board member positions, in accordance with 
+the provisions of GEO No. 109/2011 on corporate governance of public enterprises, as 
+subsequently amended and supplemented. The selection procedure will be carried out by the 
+Ministry of Energy, in its capacity as public supervisory authority. 
+ 
+April 16, 2025 
+The Board of Directors appointed in the meeting held on April 16, 2025, Mr. Dumitru Chisalita as 
+chairman of the Board of Directors and set the components of advisory committees.  
+ 
+April 29, 2025 
+The Ordinary General Meeting of Shareholders approved by Resolution No. 4, the value of the total 
+gross dividend per share of RON 0.1568, with registration date on July 4, 2025 and payment date 
+July 25, 2025.  
+ 
+May 14, 2025 
+S.N.G.N. Romgaz S.A.  Board of Directors  meeting held on May 14, 2025 , took note of Mr. Cornel 
+Benchea resignation as interim board member, as of May 15, 2025. 
+ 
+June 13, 2025 
+S.N.G.N. Romgaz S.A. Board of Directors approved dissolution of Drobeta Turnu Severin branch and 
+deregistration in compliance with the law.  
+ 
+June 16, 2025 
+Fitch Ratings Limited decided to maintain the rating BBB- rating with a negative outlook (Investment 
+Grade) assigned to the company. 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 8 of 53 
+ 
+ 
+June 27, 2025 
+Addendum No.11 to the Financing Contract No.4/December 7, 2017 for the investment “Combined 
+cycle gas turbine” – Iernut, to amend the contract term until June 30, 2026, for financing as well as 
+for amending the investment schedule provided in the contract. Concurrently, the investment 
+completion date, confirmed by commissioning, cannot exceed December 31, 2025.  
+ 
+June 30, 2025 
+The Ordinary General Meeting of Shareholders approved by Resolution No.5 : 
+• the key financial and non -financial performance indicators of officers and non -executive 
+members of the Board of Directors resulting from the Governance Plan of S.N.G.N R omgaz 
+S.A., in accordance with the minimum level established for the company pursuant to Annex 
+to the Order no. 651/2024 of AMEPIP President, and which shall form an annex to the mandate 
+contracts of officers and members of the Board of Directors of S.N.G.N ROMGAZ S.A.; 
+• the addendum to the mandate contract to be concluded with the members of the Board of 
+Directors in the form and content proposed by the Ministry of Energy; 
+• the integral component of the selection plan for vacant positions as S.N.G.N Romgaz S.A. 
+board members.  
+  
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 9 of 53 
+ 
+II. ROMGAZ GROUP OVERVIEW  
+Romgaz Group undertakes business in the following segments: 
+ natural gas exploration and production (carried out at Romgaz and Romgaz Black Sea 
+Limited); 
+ UGS activity (carried out at Filiala Depogaz); 
+ natural gas supply; 
+ special well operations and services; 
+ maintenance and transportation services; 
+ electricity generation and supply; 
+ natural gas distribution. 
+Shareholding Structure 
+On June 30, 2025, SNGN Romgaz SA shareholding structure was: 
+ 
+ 
+ 
+Company Organisation 
+The organization of the company is of hierarchy -functional type with six hierarchical levels reaching 
+from the company’s shareholders to the execution personnel. 
+The company has seven branches established in consideration of activities performed and territoriality 
+(natural gas production branches), namely: 
+• Sucursala Mediaş (Medias Production Branch); 
+• Sucursala Târgu Mureş (Targu Mures Production Branch); 
+• Sucursala Buzau (Buzau Branch); 
+• Sucursala de Intervenţii, Reparaţii Capitale şi Operaţii Speciale la Sonde Mediaş (SIRCOSS) 
+(Well Workover, Recompletions and Special Well Operations Branch); 
+• Sucursala de Transport Tehnologic şi Mentenanţă Târgu Mureş (STTM) (Technological 
+Transport and Maintenance Branch);  
+• Sucursala de Producţie Energie Electrică Iernut (Iernut Power Generation Branch);  
+• Sucursala Chisinau (Chisinau Branch).  
+ 
+SNGN Romgaz SA - Filiala de Înmagazinare Gaze Naturale Depogaz Ploieşti SRL (Depogaz)  
+On April 1, 2018 the subsidiary managing the gas storage activity became operational under the name 
+of SNGN Romgaz SA – Filiala de Înmagazinare Gaze Naturale Depogaz Ploiești SRL.  
+The subscribed and paid in share capital of the company is RON 66,056,160 divided in 6,605,616 
+shares, with a nominal value of RON 10/share. 
+The subsidiary took over the operation of underground storages licensed to SNGN Romgaz SA and the 
+operation of assets belonging to SNGN Romgaz S.A. required for performing activities. Moreover, it 
+took over the entire personnel performing storage activities. 
+ 
+3 The Romanian State through the Ministry of Energy. 
+Romanian 
+State
+70%
+Free 
+float
+30%
+ Shares % 
+Romanian State3 2,698,230,800 70.0071 
+Free float – total, of 
+which: 
+• legal persons 
+• natural persons 
+1,155,993,200 
+ 
+984,913,663 
+171,079,537 
+29.9929 
+ 
+25.5541 
+4.4388 
+Total 3,854,224,000 100.0000 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 10 of 53 
+ 
+Depogaz operates 5 UGS’s developed in depleted natural gas reservoirs, with a storage capacity of 
+2.870 billion m3.  
+Information about the Subsidiary can be found at: https://www.depogazploiesti.ro. 
+ 
+Romgaz Black Sea Limited (RBS) 
+On August 1, 2022, Romgaz became sole shareholder of ROMGAZ BLACK SEA LIMITED (“RBS”).   
+RBS is an international company established and operating in compliance with the laws of the 
+Commonwealth of the Bahamas. 
+RBS holds 50% from the rights and obligations under the Petroleum Agreement for petroleum 
+exploration, development and production for the Deep Water Zone of XIX Neptun offshore block in 
+the Black Sea. OMV Petrom S.A. holds the remaining 50% of such rights and obligations and as of 
+August 1, 2022 OMV Petrom is operator of the block. 
+The subsidiary RBS does not own any assets or interests and is not a party to any joint operating 
+agreement, production agreement, production sharing agreement or any similar agreement, besides 
+the Petroleum Agreement for petroleum exploration, development and production for the Deep Water 
+Zone of XIX Neptun offshore block in the Black Sea (“Neptun Deep”). 
+The activity of the project is carried out through Romgaz Black Sea Limited Nassau (Bahamas) 
+Bucharest branch. Currently, Neptun Deep block is in the development and exploration phase.  
+ 
+  
+ 
+  
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 11 of 53 
+ 
+COMPANY MANAGEMENT  
+BOARD OF DIRECTORS  
+The company is governed by a Board of Directors consisting of 7 members, having on June 30, 2025, 
+the following structure: 
+No. Name Position Status*) Professional 
+qualification 
+Institution of 
+employment 
+1 Chisăliță Dumitru chairman interim board 
+member 
+non-executive 
+non-independent 
+engineer SNGN Romgaz SA 
+2 Jude Aristotel Marius member executive 
+non-independent 
+legal advisor, 
+MBA 
+SNGN Romgaz SA 
+3 Nuţ Marius Gabriel member non-executive 
+independent 
+economist SC Sanex SA and                 
+SC Lasselberger 
+SA 
+4 Braslă Rǎzvan member non-executive 
+independent 
+economist SC Blom Project 
+Management SRL 
+5 Balazs Botond member non-executive 
+non-independent 
+legal advisor SNGN Romgaz SA 
+6 Stoian Elena Lorena member non-executive 
+independent 
+legal advisor SCA Stoian şi 
+Asociaţii 
+7 Vacant     
+ 
+*) - members of the Board of Directors submitted the independent statements in compliance with the provisions of Romgaz 
+Corporate Governance Code. 
+Board members were appointed under OGMS Resolution No.5 of March 14, 2023, for a 4-year mandate 
+term, starting with March 16, 2023. 
+By Resolution No. 2 of April 14, 2025 the Ordinary General Meeting of Shareholders approved 
+revocation of Mr. Dan-Dragos Dragan and Mr. Gheorghe-Silvian Sorici as board members and approved 
+election of Mr. Dumitru Chisalita and Mr. Cornel Benchea as interi m board members for a 5 -month 
+period.  
+Mr. Cornel Benchea resigned  from the position as interim member of Romgaz board of directors, as 
+of May 15, 2025. 
+On the date hereof, the selection procedure for vacant board member positions is ongoing. The 
+procedure started on April 14, 2025. 
+Board members’ CVs are available on the company’s webpage at www.romgaz.ro, Investors – 
+Corporate Governance – Structure of the Board of Directors”.  
+ 
+Between January 1 – April 14, 2025, the Board of Directors had the following members: 
+Item 
+No. 
+Name BoD 
+Position  
+Status*) Professional 
+Qualification 
+Institution of 
+Employment 
+1 Drăgan Dan Dragoş chairman non-executive  economist Ministry of Energy 
+2 Jude Aristotel 
+Marius 
+member executive   
+non-independent 
+legal adviser 
+MBA 
+SNGN Romgaz SA 
+3 Nuţ Marius Gabriel member non-executive 
+independent 
+economist SC Sanex SA and                 
+SC Lasselberger SA 
+4 Braslă Rǎzvan member non-executive 
+independent 
+economist SC Blom Project 
+Management SRL 
+5 Sorici Gheorghe 
+Silvian 
+member non-executive 
+independent 
+economist SC Sobis Solutions SRL 
+6 Balazs Botond member non-executive  
+non-independent 
+legal adviser SNGN Romgaz SA 
+7 Stoian Elena Lorena member non-executive 
+independent 
+legal adviser SCA Stoian si Asociatii 
+ 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 12 of 53 
+ 
+ 
+ 
+Advisory Committees  
+Four advisory committees support the Board of Directors activity, namely:  
+✓ nomination and remuneration committee; 
+✓ audit committee; 
+✓ risk management committee; and  
+✓ strategy committee. 
+On June 30, 2025 the advisory committees’ structure was the following: 
+I) Nomination and Remuneration Committee 
+ Braslă Răzvan (chairman) 
+ Balazs Botond 
+ Chisalita Dumitru 
+II) Audit Committee 
+ Nuț Marius Gabriel (chairman) 
+ Braslă Răzvan 
+III) Risk Management Committee 
+ Balazs Botond (chairman) 
+ Braslă Răzvan 
+ Nuț Marius Gabriel 
+IV) Strategy Committee 
+ Chisăliță Dumitru 
+ Jude Aristotel Marius 
+ 
+Information on Board of Directors and advisory committees’ meetings   
+The Board of Directors held in H1 202 5 a number of 27 meetings, in compliance with the legal and 
+statutory provisions, out of which: 
+➢ 21 meetings by physical attendance/video-conference/conference call; 
+➢ 6 electronic vote meetings. 
+Attendance at Board of Directors’ meetings: 
+Name Number of meetings 
+during the mandate 
+P PA NP 
+no. % no. % no. % 
+Drăgan Dan Dragoș 15 15 100.0     
+Sorici Gheorghe Silvian 15 14 93.3   1 6.7 
+Balazs Botond 27 27 100.0     
+Jude Aristotel Marius 27 27 100.0     
+Nuţ Marius-Gabriel 27 27 100.0     
+Braslă Răzvan 27 27 100.0     
+Stoian Elena-Lorena 27 27 100.0     
+Chisăliță Dumitru 12 12 100.0     
+Benchea Cornel 3 3 100.0     
+ 
+where: 
+P   = participated; 
+PA = power of attorney; 
+NP = did not participate. 
+ 
+ 
+ 
+ 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 13 of 53 
+ 
+ 
+ 
+Board members’ attendance at Advisory Committees’ meetings: 
+Nomination and Remuneration Committee: 4 meetings 
+Name physical attendance 
+Sorici Gheorghe Silvian 2/2 
+Braslă Răzvan 4/4 
+Drăgan Dan Dragoș 2/2 
+Chisăliță Dumitru 2/2 
+Balazs Botond 2/2 
+ 
+Audit Committee: 9 meetings 
+Name  physical attendance 
+Sorici Gheorghe Silvian 5/5 
+Braslă Răzvan 9/9 
+ 
+Nuț Marius Gabriel 9/9 
+Benchea Cornel 2/2 
+ 
+Risk Management Committee: 1 meeting 
+Name physical attendance 
+Nuț Marius Gabriel 1/1 
+Balazs Botond 1/1 
+Braslă Răzvan 1/1 
+ 
+Strategy Committee: 2 meetings 
+Name physical attendance 
+Balazs Botond 1/1 
+Braslă Răzvan 1/1 
+Drăgan Dan Dragoș 1/1 
+Jude Aristotel Marius 2/2 
+Stoian Elena Lorena 1/1 
+Chisăliță Dumitru 1/1 
+ 
+Board meetings were held in compliance with the approved agenda. The main resolutions relate to  
+following approvals:  
+➢ endorsement of S.N.G.N. Romgaz S.A. 2025 Individual Income and Expenditure Budget; 
+➢ endorsement of the 2024 Internal Public Audit Plan – second revision; 
+➢ SNGN Romgaz SA adherence as associated member to the Association of Confidentiality Specialists 
+and Data Protection starting with 2025; 
+➢ Code of Conduct for Romgaz Suppliers, Responsible and sustainable procurement and supply 
+policy, Romgaz Statement on Human Rights; 
+➢ review of the Internal Rules of the Audit Committee; 
+➢ establish and register at the Trade Register Office attached to Sibiu Court the work location Group 
+1 Herla; 
+➢ the Preliminary  Consolidated Annual Report on the Economic -Financial Activity of S.N.G.N. 
+Romgaz S.A. Group for 2024; 
+➢ prepare annual reports on the activity of advisory committees for 2024; 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 14 of 53 
+ 
+➢ review the Code of Ethics and Business Conduct , adopt the company’s policy on prevention and 
+combat of conflict of interests; 
+➢ 2024 Consolidated Board of Directors’ Report; 
+➢ the Report on remuneration, benefits and/or other benefits granted to Board members and 
+Romgaz officers for financial year 2024; 
+➢ Endorse SNGN Romgaz SA Annual Individual Financial Statements for financial year ended on 
+December 31, 2023, prepared in compliance with the International Financial Reporting Standards 
+(IFRS); 
+➢ Endorse Romgaz Group Annual Consolidated Financial Statements for financial year ended on 
+December 31, 2023, prepared in compliance with the International Financial Reporting Standards 
+(IFRS); 
+➢ the Consolidated Report on Payments to Governments for 2024; 
+➢ the Quarterly Report on the economic -financial activity of Romgaz Group for the period ended 
+March 31, 2025; 
+➢ the report on the activity of officers for the period ended March 31, 2025 (January 1, 2025 – March 
+31, 2025); 
+➢ the consolidated simplified interim financial statements for the period ended March 31, 2025, 
+prepared in compliance with the international financial reporting standards;  
+➢ the report on assessing the activity of officers for 2024; 
+➢ the report on the status of fulfilling corporate governance and transparency objectives as well as 
+the status of fulfilling financial and non-financial indicators of 2024; 
+➢ dissolution of Drobeta Turnu Severin Branch; 
+➢ specific enforcement guidelines on organisation and carrying out internal public audit activities  
+at SNGN Romgaz SA and at Depogaz. 
+ 
+In the first six months of 20 25, the General Meeting of Shareholders held 4 ordinary meetings and 
+one extraordinary meeting, passing 5 resolutions. Detailed information on the meetings and the 
+documents are published on the company’s website at https://www.romgaz.ro/en/general-meeting-
+shareholders 
+ 
+Depogaz Board of Directors 
+Depogaz is governed by the Board of Directors, consisting of 5 board members, selected and appointed 
+by the Sole Associate in compliance with the law.  
+Selection and appointment of Depogaz Board of Directors was made in compliance with GEO No. 
+109/2011 on corporate governance of public enterprises, as amended from time to time, and related 
+enforcement guidelines.    
+Thus, the appointment of members in the Board of Directors of SNGN Romgaz SA – Filiala de 
+Înmagazinare Gaze Naturale DEPOGAZ Ploiești SRL, was approved by Sole Associate Resolution No. 
+1/January 19, 2023, for a 4 –year mandate term, for the period January 20, 2023 – January 20, 2027, 
+respectively, as follows: 
+No. Surname and name Position in the BoD  Status*) 
+1. Stanescu Nicolae Bogdan Codrut chairman  independent non-executive  
+2. Tarinda Ileana member  independent non-executive  
+3. Lazar George member  independent non-executive  
+4. Vasile Anna-Maria member   independent non-executive  
+5. Ciornea Anca-lsabela member  independent non-executive  
+*) – members of the Board of Directors submitted the independent statements in compliance with the Internal Rules of the 
+Board of Directors.   
+ 
+RBS Board of Directors  
+RBS is managed in compliance with the Amended and Restated Memorandum and Articles of 
+Association.   
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 15 of 53 
+ 
+RBS is governed by a Board of Directors consisting of 3 members,  with the following membership on 
+June 30, 2025: 
+No. Name and surname BoD 
+Position  
+Status Professional 
+Qualification 
+Employer 
+1 Rodica Sasu chairman non-executive geophysical engineer SNGN Romgaz SA 
+2 Robert Stelian Chirca member non-executive engineer SNGN Romgaz SA 
+3 Tiberiu Andrei Novac member non-executive economist SNGN Romgaz SA 
+ 
+ 
+Board members have been appointed based on Sole Associate Resolution No. 34 of September 25, 
+2024 for a 5-month (five) mandate, starting from October 8, 2024, until March 8, 2025. 
+On February 18, 2025 , by Sole Associate Resolution No. 3, board members were appointed for a 5 -
+month mandate, from March 9, 2025 until August 9, 2025.  
+ 
+UPPER MANAGEMENT 
+Chief Executive Officer (CEO) 
+By Resolution no. 55 of May 15, 2023, the Board of Directors appointed Mr. Popescu Razvan as Chief 
+Executive Officer for a period of 4 years, from May 16, 2023, until May 16, 2027.  
+By Resolution no. 87 of September 19, 2023, the Board of Directors approved the conclusion of the 
+addendum to the mandate contract of Mr. Popescu Razvan related to financial and nonfinancial 
+performance indicators underlying the establishment and granting of the variable component of the 
+Chief Executive Officer’s remuneration, determining the amount of the variable component of 
+remuneration and how it is calculated and paid. 
+By Resolution no. 115 of December 19, 2023, the Board of Directors approved the conclusion of the 
+addendum to the Chief Executive Officer’s mandate contract on the modification of financial and 
+non-financial performance indicators.  
+ 
+Deputy Chief Executive Officer (Deputy CEO) 
+By Resolution no. 55 of May 15, 2023, the Board of Directors appointed Mr. Jude Aristotel Marius as 
+Deputy Chief Executive Officer for a period of 4 years, from May 16, 2023 until May 16, 2027.  
+By Resolution no. 87 of September 19, 2023, the Board of Directors approved the conclusion of the 
+addendum to the mandate contract of Mr. Jude Aristotel Marius related to financial and nonfinancial 
+performance indicators underlying the establishment and gr anting of the variable component of the 
+Deputy Chief Executive Officer’s remuneration, determining the amount of the variable component 
+of remuneration and how it is calculated and paid. 
+By Resolution no. 115 of December 19, 2023, the Board of Directors approved the conclusion of the 
+addendum to the Chief Executive Officer’s mandate contract on the correction of financial and non -
+financial performance indicators.  
+ 
+Chief Financial Officer (CFO) 
+By Resolution no. 55 of May 15, 2023, the Board of Directors appointed Mrs. Tranbitas Gabriela as 
+Romgaz Chief Financial Officer, for a period of 4 years, from May 16, 2023 until May 16, 2027. 
+By Resolution no. 87 of September 19, 2023, the Board of Directors approved the conclusion of the 
+addendum to the mandate contract of Mrs. Tranbitas Gabriela, related to the financial and 
+nonfinancial performance indicators underlying the establishment and  granting of the variable 
+component of the Deputy Chief Financial Officer’s remuneration, determining the amount of the 
+variable component of remuneration and how it is calculated and paid. 
+By Resolution no. 115 of December 19, 2023, the Board of Directors approved the conclusion of the 
+addendum to the Chief Financial Officer’s mandate contract on the correction of financial and non -
+financial performance indicators.  
+ 
+Other persons holding management positions without being delegated management powers by the 
+Board of Directors, on June 30, 2025: 
+Surname and name Position 
+ROMGAZ - headquarters  
+Chirca Robert Stelian Exploration-Production Department Director 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 16 of 53 
+ 
+Foidas Ion Production Department Director 
+Paunescu Octavian Aurel Exploration-Appraisal Department Director 
+Huzuneanu Ionut Cosmin Drilling Department Director 
+Nicolau Eduard Traian Human Resources Management and Labour Law Director 
+Vatca Delia Maria Human Resources Management and Labour Law Deputy Director 
+Grecu Marius Rares Control Department Director 
+Veza Marius Leonte Accounting Department Director 
+Sasu Rodica Exploration-Production Support Department Director 
+Popescu Bogdan Alexandru Information Technology Department Director 
+Lupa Leonard Ionut Procurement Department Director 
+Chertes Viorel Claudiu Regulations Department Director 
+Moldovan Radu Costica Energy Trading Department Director 
+Mares Gabriela Elena Strategy, International Relations, European Funds Department 
+Director 
+Antal Francisc Quality, Environment, Emergency Situations and Infrastructure 
+Department 
+Hategan Gheorghe Technical Department Director 
+Cornea Daniel Investments Project Management Department Director 
+Medias Branch  
+Totan Constantin Ioan Branch Director 
+Achimet Teodora Magdalena Economic Director 
+Veress Tudoran Ladislau Adrian Production Director 
+Popa Bogdan Technical Director 
+Targu Mures Branch  
+Baciu Marius Tiberiu Branch Director 
+Bosca Mihaela Economic Director 
+Radu Cristian Gheorghe Production Director 
+Tarsac Grigore Technical Director 
+Iernut Branch  
+Balazs Bela Atila Branch Director 
+Hatagan Olimpiu Sorin Economic Director 
+Oprea Maria Aurica Commercial Director 
+Bircea Angela Technical Director 
+SIRCOSS  
+Rotar Dumitru Gheorghe Branch Director 
+vacant Economic Director 
+Gheorghiu Sorin Technical Director 
+STTM  
+Lucaci Emil Branch Director 
+Ilinca Cristian Alexandru Economic Director 
+Grosu Adrian Doru Technical Director 
+Buzau Branch  
+Guettat Morched Branch Director 
+Banica Dardu Production/Operations Director 
+Chisinau Branch  
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 17 of 53 
+ 
+Selavardeanu Cristian Branch Director 
+ 
+Members of the upper management, except for the Chief Executive Officer, the Deputy Chief 
+Executive Officer, and the Chief Financial Officer, are employees of the company having an individual 
+employment contract for an indefinite period. 
+In compliance with the powers delegated by the Board of Directors, the Chief Executive Officer 
+employs, promotes and dismisses management and operating personnel. 
+ 
+ 
+ 
+Depogaz Executive Management   
+Director General 
+The recruitment procedure for Depogaz Director General of was carried out by an independent expert 
+contracted to carry out this project and was conducted in accordance with the provisions of GEO No. 
+109/2011, as amended and supplemented. 
+Upon completion of the recruiting procedure, Mr. Carstea Vasile was appointed Director General of 
+Depogaz by Board of Directors Resolution No. 5/March 6, 2023, based on a Contract of Mandate 
+concluded for a term of 4 years, starting with March 6, 2023.  
+The Board of Directors , by Resolution No.9/June 2, 2025, revoked with just cause , by majority of 
+votes casted (four votes for, one vote against) Mr. Carstea Vasile from the position as Director General 
+of Depogaz as of June 3, 2025, and appointed by majority of votes casted (four votes for, one vote 
+against) Mrs. Moise Sanda Madalina as Interim Director General starting from June 3, 2025, for a 
+maximum 5-month period, in compliance with art. 29 1 (para 5) of GEO No. 109/2011 on corporate 
+governance of public  companies, as subsequently amended and supplemented. Concurrently, the 
+same BoD Resolution approved by majority of votes (four votes for, one vote against) start of the 
+selection procedure of the Director General in line with GEO No.109/2011 on corporate governance 
+of public companies, as subsequently amended and supplemented. 
+The duties of Depogaz Director General, regardless of his/her statute (final or interim) are provided 
+in the Contract of Mandate, by the Internal Rules of the Board of Directors and by the Articles of 
+Association, supplemented by the applicable law. 
+Other persons holding management position during the reference period:  
+No. Surname and name Position 
+1. Alupei Valentin Lucian Storage Director 
+2. Ionescu Viorica Mariana Economic Director 
+3. Girlicel Victor Cristian Technical Director 
+4. Galea Paul Commercial Director 
+5. Moise Sanda Madalina Quality, Health, Safety, Environment Director until June 2, 2025 
+Information on Depogaz Board members and executive management can be found at:  
+https://www.depogazploiesti.ro/ro/despre-noi/conducere.  
+ 
+RBS Executive Management 
+By Resolution No. 53 of April 28, 2024 , the Board of Directors appointed Mrs. Diana Andreea Lupu as 
+Director General and legal representative of the company, Branch Director and legal representative 
+of Romgaz Black Sea Limited Nassau (Bahamas) - Bucuresti Branch for a 5 -month term mandate 
+starting from September 7, 2024 until February 7, 2025. 
+The Board of Directors appointed by Resolution No. 21 of April 1 6, 2025, Mr. Dan-Dragos Dragan as 
+Director General and legal representative of the company, Branch Director and legal representative 
+of Romgaz Black Sea Limited Nassau (Bahamas)-Bucuresti Branch for a 5-month mandate starting from 
+April 23, 2025 until September 23, 2025. 
+ 
+Human Resources 
+On June 30, 2025, Romgaz Group had 5,898 employees and SNGN Romgaz SA 5,376 employees.  
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 18 of 53 
+ 
+The table below shows the evolution of the employees’ number during January 1, 20 25 - June 30, 
+2025: 
+Description 2024 6M 2024 6M 2025 
+Romgaz 
+Group 
+SNGN 
+Romgaz SA 
+Romgaz 
+Group 
+SNGN 
+Romgaz SA 
+Romgaz 
+Group 
+SNGN 
+Romgaz SA 
+1 2 3 4 5 6 7 
+Employees at the beginning of the period 5,980 5,462 5,980 5,462 5,977 5,450 
+Newly hired employees 259 240 107 101 58 54 
+Employees who terminated their 
+relationship with the company/Group 262 252 139 135 137 128 
+Employees at the end of the period 5,977 5,450 5,948 5,428 5,898 5,376 
+ 
+ 
+The structure of SNGN Romgaz SA employees at the end of the reporting period is shown below: 
+a) by activities 
+ 
+ 
+b) by level of education 
+• university  28.35%; 
+• secondary school 31.98%; 
+• foreman school    1.82%; 
+• vocational school 29.74%; 
+• middle school    8.11%; 
+c) by age 
+• under 30 years    5.49%; 
+• 30-40 years  13.73%; 
+• 40-50 years  26.66%; 
+• 50-60 years  46.84%; 
+• over 60 years    7.29%; 
+ 
+d) by headquarters and branches 
+ 
+ 
+71.63%
+11.38%
+8.91%
+6.40%1.67%
+ gas production
+production tests, special well
+operations
+transporation
+electricity production
+health
+6.40%
+30.95%
+25.39%
+11.38%
+8.91%
+13.99% 2.98%
+ SPEE Iernut
+Sucursala Mediaș
+Sucursala Mureș
+SIRCOSS
+STTM
+Sediul SNGN
+Sucursala Buzău
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 19 of 53 
+ 
+e) by categories 
+Entity Workers Foremen Office Total 
+1 2 3 4 5 
+Headquarters 55 0 697 752 
+Mediaş Branch 1316 79 269 1664 
+Târgu-Mureş Branch 1100 48 217 1365 
+SIRCOSS 451 47 114 612 
+STTM 362 21 96 479 
+Iernut 211 28 105 344 
+Buzau Branch 117 3 40 160 
+TOTAL 3612 226 1538 5376 
+Romgaz on the Stock Exchange 
+Since November 12, 2013, SNGN Romgaz SA is listed on Bucharest Stock Exchange (“BVB”) and    
+company’s shares are traded on the regulated market governed by BVB under the symbol “SNG”.  
+Romgaz is considered an attractive company for investors as regards dividends paid to shareholders, 
+stability and development perspectives, such being reflected in the evolution of securities prices in 
+the reviewed period. 
+Moreover, Romgaz holds a significant position in the top of local issuers, being included in BVB trading 
+indices by the end of H1 2025, as follows: 
+• fourth place by market capitalization in the top of Premium BVB issuers. With a market 
+capitalization of RON 2 7,018.11 million, EUR 5,320.93 million, on June 30, 2025, Romgaz is 
+the fourth largest listed company in Romania, being preceded by Hidroelectrica with a market 
+capitalisation of RON 55,055.83 million (EUR 10.842.67 million), OMV Petrom with a 
+capitalization of RON 46,920.68 million (EUR 9,240.53 million) and Banca Transilvania with a 
+capitalization of RON 28,386.60 million (EUR 5,590.44 million); 
+- fourth place by the total amount of transactions in H1 2025 in the top of Premium BVB issuers 
+(RON 394.08 million), behind Banca Transilvania and OMV Petrom and Hidroelectrica;  
+- weights of 10.67% and 10.57% in BET index (top 20 issuers) and BET -XT (top 30 issuers) 
+respectively, 18.50% in BET-NG index (energy and utilities), 10.67% in BET-TR index (BET Total 
+Return) and 13.76% in BET-EF index (energy, utilities, finances). 
+ 
+Performance of Romgaz shares compared to BET index (Bucharest Exchange Trading), for the first 6 
+months of 2025, is shown below: 
+ 
+ 
+15,750.00
+16,250.00
+16,750.00
+17,250.00
+17,750.00
+18,250.00
+18,750.00
+5.00
+5.50
+6.00
+6.50
+7.00
+1/3/2025
+1/8/2025
+1/13/2025
+1/18/2025
+1/23/2025
+1/28/2025
+2/2/2025
+2/7/2025
+2/12/2025
+2/17/2025
+2/22/2025
+2/27/2025
+3/4/2025
+3/9/2025
+3/14/2025
+3/19/2025
+3/24/2025
+3/29/2025
+4/3/2025
+4/8/2025
+4/13/2025
+4/18/2025
+4/23/2025
+4/28/2025
+5/3/2025
+5/8/2025
+5/13/2025
+5/18/2025
+5/23/2025
+5/28/2025
+6/2/2025
+6/7/2025
+6/12/2025
+6/17/2025
+6/22/2025
+6/27/2025
+Trading price for SNG shares and BVB BET index in H1 2025 - RON
+SNG Indice BET
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 20 of 53 
+ 
+The table below shows the evolution of closing price and the company’s market capitalization on the 
+last day of Q2 of 2023, 2024 and 2025:  
+ 
+ June 30, 2023 June 30, 2024*) June 30, 2025 
+Number of shares 385,422,400 3,854,224,000 3,854,224,000 
+Closing price (RON) 44.25 5.96 7.01 
+Capitalisation  
+   *RON million 
+   *EUR million 
+ 
+17,055 
+3,436 
+ 
+22,971 
+4,615 
+ 
+27,018 
+5,321 
+BNR exchange rate (RON/EUR) 4.963 4.9771 5.0777 
+*) On May 30, 2024 Romgaz  share capital was increased, by granting 9 free shares for each share held by 
+shareholders registered on May 29, 2024. Following this operation, the share capital increased 10 times, and 
+consequently the share price decreased 10 times. 
+ 
+The first six months of 2025 can be characterised by a steep rise of the share price traded on BVB, 
+increasing from 5.14 RON/share on December 30, 2024 to 7.01 RON/share on June 30, 2025 (+36.38%). 
+The average price for the period was 5.98 RON/share, the minimum price of 5.19 RON/share was 
+reached on the first trading day of the year, January 3, 2025, and the maximum value 7.01 RON/share 
+recorded in the last days of H1, June 24 and June 30, 2025.  
+In Q1 2025 the average trading price of Romgaz shares was RON 5.69, a general upward trend from 
+month by month (+5.25% in January, +9.06% in February and +1.69% in March). The share price 
+continued in Q2 2025 its ascending trend, with an average trading price of 6.27 RON. At the end of 
+May the share price grew consistently reaching a  14.79% higher price than at the end of April 2025 . 
+The highest average share price was recorded in June 2025, 6.92 RON, which is by 15.7% higher than 
+the average price of May (5.98 RON). 
+ 
+Despite the internal factors positively influencing the share price  (e.g. increase of the net 
+consolidated annual profit by 14%, drilling for development and production of Pelican Sud and Domino 
+fields in Neptun Deep block, distribution of 2024 dividends, increase by 2% of the consolidated net 
+profit for Q1 2025 as compare d to Q1 2024), the price dynamics was significantly influenced by 
+external factors, both national (e.g. presidential elections, settlement of the political situation, 
+measures to reduce the budget deficit4) as well as international factors, that influenced global capital 
+markets (e.g. prospects for resolving the Russian -Ukrainian conflict, new customs duties imposed by 
+the US, the new geopolitical reality, the outbreak of a new military conflict between Iran and Israel). 
+  
+ 
+4 Source: Bursa newspaper, 17.06.2025 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 21 of 53 
+ 
+ 
+ 
+III. REVIEW OF GROUP’S BUSINESS  
+A retrospective analysis relating to natural gas volumes produced during 201 8-2024 and H1 202 5 is 
+shown below:  
+Specifications 2018 2019 2020 2021 2022 2023 2024 H1 2025 
+1 3 4 5 6 7 8 9 10 
+Planned (mil.m3) 5,250 5,350 4,315 5,010 5,000 4,810 4,695 2,429 
+Result (mil.m3) 5,333 5,277 4,520 5,029 4,936 4,788 4,963 2,486 
+Balance  
+(Result vs Planned) 
+• mil.m3 
+• percentage % 
+ 
+ 
+83 
+101.6 
+ 
+ 
+-73 
+98.6 
+ 
+ 
+205 
+104.7 
+ 
+ 
+19 
+100.4 
+ 
+ 
+-64 
+98.7 
+ 
+ 
+-22 
+99.5 
+ 
+ 
+268 
+105.7 
+ 
+ 
+57 
+102.3 
+ 
+The chart below shows the evolution of gas volumes produced during 201 8-2024 and in H1 202 5, 
+planned versus result: 
+ 
+ 
+The achievement of such gas volumes was positively impacted by the following factors : 
+• streaming in new wells resulted from geological exploration activities which brought new 
+commercial gas discoveries into the economy;  
+• drilling and streaming in new production wells; 
+• continuing rehabilitation projects performed in the main mature gas fields;  
+• performing well workover operations that contributed to the reactivation of a series of wells 
+with important flow rates;  
+• optimizing production by applying modern water removal methods by implementing minimum 
+invasive technologies for well workovers, by monitoring operational parameters with modern 
+pressure and flow rate measuring devices.   
+ 
+The table below shows gas quantities produced, delivered, injected/withdrawn in/from underground 
+storages during January – June 2025, as compared to the similar period of 2023 and 2024 (mil. m3): 
+ 
+5.25 5.35
+4.32
+5.01 5.00 4.81 4.70
+2.43
+5.33 5.28
+4.52
+5.03 4.94 4.79 4.96
+2.49
+0.00
+1.00
+2.00
+3.00
+4.00
+5.00
+6.00
+2018 2019 2020 2021 2022 2023 2024 H1 2025
+bcm
+planned result
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 22 of 53 
+ 
+ No. Specifications H1         
+2023 
+H1          
+2024 
+H1   
+2025 
+Δ 2025/2024 
+(%) 
+0 1 2 3 4 5=(4-3)/3x100 
+1. Gross gas production 2,383.3 2,486.9 2,485.6 -0.05 
+2. Technological consumption 35.9 36.5 39.7 8.8 
+3. Net internal gas production (1.-2.) 2,347.4 2,450.4 2,445.9 -0.2 
+4. Internal gas volumes injected into UGS  32.0 165.6 0.6 n/a 
+5. Internal gas volumes withdrawn from UGS 143.8 13.9 168.0 1,108.6 
+5.1. Gas sold in storages  22.7 77.1 4.1 n/a 
+6. Difference from conversion to Gross 
+Calorific Value 0.7 3.5 1.9 -45.7 
+7. Volumes supplied from internal 
+production (3.-4.+5.-6.) 2,481.2 2,372.3 2,615.5 10.3 
+8.1. Gas supplied to CTE Iernut and Cojocna 
+from Romgaz’s gas 147.1 135.8 102.8 -24.3 
+8.2 Self-supplied gas  0.7 0.8 14.3 
+9. Gas supplied from internal production 
+to the market (7.-8.1.-8.2.) 2,334.1 2,235.8 2,511.9 12.3 
+10. Gas from partnerships Amromco (50%) 7.9 8.9 7.6 -14.6 
+11. Purchased internal gas volumes (including 
+imbalances and commodity gas) 7.7 0.1 7.1 7,000.0 
+12. Sold internal gas volumes (9.+10.+11.) 2,349.7 2,244.8 2,526.6 12.6 
+13. Supplied internal gas volumes 
+(8.1.+8.2.+12.) 2,496.8 2,381.3 2,630.2 10.5 
+14. Supplied import gas volumes 0.0 0.0 0.0 n/a 
+15. Gas supplied to Iernut and Cojocna from 
+other sources (including imbalances) 0.1 0.0 0.0 n/a 
+16. Total gas supplies (13.+14.+15.) 2,496.9 2,381.3 2,630.2 10.5 
+      
+* Total gas withdrawn from UGS 1,157.3 983.6 1,249.5 27.0 
+* Total gas injected in UGS 859.7 820.7 929.7 13.3 
+ 
+Note: information is not consolidated, namely these include the transactions between Romgaz and Depogaz. 
+ 
+Gas delivered by Romgaz in H1 202 5, representing deliveries to customers and CTE Iernut 
+consumption increased by 10.5% compared to the similar period of the previous year.  
+ 
+The Group’s income originates from natural gas production and delivery (production and delivery of 
+own gas, gas from joint operations, sales of import gas and of gas purchased from other domestic 
+producers), from providing underground storage services, fro m electric power generation and supply 
+and from other related services. 
+*RON thousand* 
+No. Specifications H1 2024 H1 2025 Ratios 
+(2025/2024) 
+0 1 2 3 4=(3-2)/2x100 
+1 Income – total, out of which: 
+• operating income 
+• finance income 
+4,215,702  
+ 4,099,719  
+ 115,983 
+ 4,514,131 
+4,356,105  
+158,026   
+7.08 
+6.25 
+36.25 
+2 Revenue 3,896,939 4,248,065 9.01 
+3 Expenses – total, out of which: 
+• operating expenses 
+2,050,014   
+ 2,012,516  
+2,505,002  
+2,361,459  
+22.19 
+17.34 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 23 of 53 
+ 
+• financial expenses  37,498 143,543 282.80 
+4 Share of associates’ results 3,359 3,819 13.69 
+5 Gross profit 2,169,047 2,012,948 -7.20 
+6 Income tax expenses 331,834  333,711  0.57 
+7 Net profit  1,837,213 1,679,237 -8.60 
+ 
+In H1 2025 total income was higher by 7.08% as compared to H1 2024.  
+ 
+Economic-Financial Results 
+The table below shows a comparison between the consolidated financial results (RON thousand):  
+Specifications H1 2024 H1 2025 Ratios          
+(2025/2024) 
+1 2 3 5=(3-2)/2x100 
+Operating result   2,087,203    1,994,646   -4.43 
+Financial result   78,485   14,483 -81.55 
+Share of associates’ result  3,359   3,819   13.69  
+Profit before tax   2,169,047   2,012,948 -7.20 
+Income tax expenses   331,834   333,711   0.57  
+Profit for the period   1,837,213   1,679,237 -8.60 
+Investments play an important part in maintaining the production decline at current levels by 
+discovering new reserves and improving the current recovery rate by rehabilitation, development and 
+modernization of existing facilities.   
+ 
+In H1 2025, Romgaz Group invested RON 1,894,555 thousand, representing approx. 75.99% from the 
+planned investments.  
+During 2021 – June 30, 2025 the Company invested RON 11,896,934 thousand, as follows: 
+*RON thousand* 
+Year 2021 2022  2023 2024 H1 2025 Total 
+Value (thousand 
+RON) 
+417,658 5,584,823 1,106,161 3,000,232 1,788,060 11,896,934 
+ 
+For 2025, Romgaz planned investments of RON 5,088,782 thousand of which RON 2,423,121 thousand 
+were scheduled for H1 2025, and RON 1,788,060 thousand were invested, representing: 
+✓ 73,79 % of investments planned for H1 2025;  
+✓ 34,14 % of the Investment Program for 2025;  
+✓ 155,87 % as compared to the investment results of H1 2024.  
+ 
+2025 Romgaz Investment Program allocated for Neptun Deep project for financing RON 3,799,184 
+thousand, of which the amount planned for H1 202 5 was RON 1,908,270 thousand. Of this amount 
+Romgaz granted financing to RBS of RON 1,341,511 thousand, representing: 
+✓ 70.30 % of the amount planned for H1 2025; 
+✓ 35.31 % of the Program approved for 2025 for Neptun Deep. 
+Investments were financed from own sources and from attracted sources, as follows: 
+• exclusively from own sources for investments in natural gas production (onshore) and in 
+partnerships Lukoil Overseas Atash B.V.; 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 24 of 53 
+ 
+• own sources and National Investment Plan  (roughly 22% of eligible expenses) for the 
+investment at Iernut Electricity Production Branch “Development of CTE Iernut by building a 
+new combined cycle gas turbine power plant”; 
+• own sources for Neptun Deep project  - financing granted by SNGN Romgaz SA to Romgaz 
+Black Sea Limited to support current activities and to finance its investments. 
+ 
+Regarding physical achievements for the reviewed period, the investments commenced in the previous 
+years were finalized, preparatory works were carried out (design, obtaining lands, approvals, 
+agreements, authorizations, procurement) for new investment obj ectives, and modernisation works 
+and capitalizable repairs were performed at producing wells.  
+Such activities are the prerequisite for future results.  
+The table below shows a comparison to the similar period of previous year split into main investment 
+chapters:  
+*RON thousand* 
+Investment Chapter Results  
+H1 2024 
+Results  
+H1 2025 
+% results  
+H1 202 5/H1 
+2024  
+1 2 3 4=3/2x100 
+1. Geological exploration works to discover new gas 
+reserves 35,023 104,683 298.90 
+2. Gas fields exploitation, infrastructure and 
+utilities, electricity generation 98,948 142,050 143.56 
+4. Environmental protection works 573 485 84.57 
+5. Retrofitting and revamping of constructions, 
+installations and equipment 147,528 169,276 114.74 
+6. Independent equipment and installations 34,506 27,686 80.24 
+7. Consultancy, studies and projects, software and 
+licenses, intangible and financial assets 830,602 1,343,880 161.80 
+TOTAL 1,147,180 1,788,060 155.87 
+ 
+The table below shows the investment results split by main chapters for H1 202 5, compared to the 
+investment program: 
+*RON thousand* 
+Investment Chapter Planned H1 Results H1 % 
+1 2 3 4=3/2x100 
+1. Geological exploration works to discover new gas 
+reserves 
+82,508 104,683 126.88 
+2. Gas fields exploitation, infrastructure and 
+utilities, electricity generation 
+157,845 142,050 89.99 
+4. Environmental protection works 3,842 485 12.61 
+5. Retrofitting and revamping of constructions, 
+installations, and equipment 
+184,834 169,276 91.58 
+6. Independent equipment and installations 65,031 27,686 42.57 
+7. Consultancy, studies and projects, software and 
+licenses, intangible and financial assets 
+1,929,061 1,343,880 69.66 
+TOTAL 2,423,121 1,788,060 73.79 
+ 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 25 of 53 
+ 
+ 
+ 
+The following diagram shows the investments achieved during the reporting period:  
+ 
+ 
+The following summary of achieved investments shows that, to a large extent, planned investments 
+were completed or are in progress: 
+Item 
+No. 
+Main physical investment 
+objectives 
+Planned Results 
+1.  Exploratory drilling 12 wells 3 wells- drilling completed 
+4 wells - drilling in progress  
+6 wells - drilling works under procurement  
+2.  Drilling design for 
+exploration wells 
+40 wells 16 wells - in various preparatory stages 
+(design, obtaining permits, approvals, 
+construction permit) 
+3.  Drilling production wells 1 well 1 well - drilling in progress 
+4.  Preparatory works for 
+production wells 
+6 wells Steps for preparatory works (design, obtaining 
+permits, approvals, construction permit) 
+126.88%
+89.99%
+12.61%
+91.58%
+42.57%
+69.66%
+104,683
+142,050
+485
+169,276
+27,686
+1,343,880
+82,508
+157,845
+3,842
+184,834
+65,031
+1,929,061
+I
+II
+IV
+V
+VI
+VII
+Realizat vs. Planificat Semestrul I 2025 
+Buget planificat [mii lei] Realizări [mii lei]
+Chapt. 1; 33.01%
+Chapt. 2; 46.33%
+Chapt. 4; 9.09%
+Chapt. 5; 37.78%
+Chapt. 6; 15.75%
+Chapt. 7; 35.03%
+1. Geological exploration works to
+discover new gas reserves
+2. Gas field exploitation,
+infrastructure and utilities, electricity
+generation
+4. Environmental protection
+5. Retrofitting and revamping of
+constructions, installations and
+equipment
+6.Independent equipment and
+installations
+7. Consultancy, studies and projects,
+soft and licenses, intangible and
+financial assets
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 26 of 53 
+ 
+5.  Surface facilities – 
+construction of facilities at 
+wells with gas; gathering 
+pipes; compressor stations; 
+dehydration stations 
+construction of 6 facilities 
+with budget for execution 
+works and 2 0 surface 
+facilities with budget for 
+preparatory works, 4 
+dehydration stations with 
+budget for preparatory 
+works, 1 gathering pipe with 
+budget for execution works 
+and 3 gathering pipes with 
+budget for preparatory 
+works, 3 compressor 
+stations with budget for 
+preparatory works , 3 
+booster compressors. 
+-  5 facilities - completed for streaming in 
+wells; 
+- 7 facilities – under construction for streaming 
+in wells; 
+- 1 well - procurement of facilities 
+construction works in progress; 
+ - 19 surface facilities - in various stages 
+(design, obtaining permits, approvals, 
+construction permits) for putting wells into 
+production; 
+- gathering pipe for Caragele field – Damianca, 
+stage I - in execution; 
+- pipeline between the Ø6" Gr. 106 -17 Nadeș 
+high-pressure collector and the Ø20" Nadeș 
+Brateiu collector, for which execution is being 
+purchased;  
+- Band-Ulieș pipeline II and Ulieș-Sărmășel 
+pipeline – design and execution are being 
+purchased; 
+- gathering pipe group 40 Piscu – booster 
+compressor group 3 Piscu – execution is under 
+procurement; 
+- gas collector Giulesti – design is under 
+procurement; 
+- Daneş II gas dehydration station – execution 
+is under procurement; 
+- Danes II compressor station – feasibility study  
+drafted; 
+- Harlesti gas dehydration station – feasibility 
+study drafted; 
+- Giulesti and Cosereni dehydration stations – 
+design is under procurement; 
+- Herepea dehydration station + fiscal 
+metering panel – under execution; 
+- Galbenu III dehydration station and LTS – 
+design and execution are under procurement; 
+- booster compressors – under design. 
+6.  Capitalizable well repairs, 
+well recompletion 
+operations and well 
+reactivation 
+Roughly 160 wells, 
+correlated with the annual 
+program established with 
+the National Regulatory 
+Authority for Mining, 
+Petroleum and Geological 
+Storage of Carbon Dioxide 
+Works performed in-house, by SIRCOSS, in 105 
+wells. 
+7.  Procurement of advanced 
+equipment and 
+installations specific to the 
+core activity 
+Purchase of new 
+equipment and high -
+performance installations 
+specific to the core 
+business: 
+7 tanks, 24 wireline tools 
+and equipment, 26 slickline 
+tools and equipment , 15 
+coiled tubing tools, 1 
+manifold, 4 sets of 
+hydraulically operated 
+wrenches, 1 independent 
+milling machine, 3 CAMP 
+container modules, 240 
+DURABASE slabs, equipment 
+for detecting and 
+quantifying methane 
+emissions, one system for 
+determining the quantities 
+(volume and energy) of 
+The following were purchased: 
+2 boom lifts, 12 flatbed trucks, 18 road 
+tractors, 14 road tractor trailers, 2 backhoe 
+loaders, 2 electric forklifts, 23 wireline tools 
+and equipment, 1 hot water washing pump, 4 
+3 ½" hydraulically operated jacks, 1 4 ½" 
+hydraulically operated jack, 3 changing room 
+containers,  23 wireline tools and equipment, 
+4 heating devices, 4 sets of hydraulically 
+operated wrenches, 7 tanks, 12 GPS systems, 
+1 5-ton forklift equipped with a crane arm and 
+scale, package for scanning and digitizing well 
+logs, pipe barrelling equipment, wastewater 
+flow meter at the Țaga Compressor Station, 8 
+front loaders. 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 27 of 53 
+ 
+natural gas delivered, 1 
+fixed metering pump for 
+liquid foam injection into 
+wells, various metal tanks of 
+10 and 30 cubic meters; 
+Purchase of specific 
+equipment for transport 
+and maintenance: 1 flatbed 
+truck, 6 semi -trailers, 2 
+flatbed trucks with boom, 
+12 flatbed utility vehicles, 
+18 road tractors, 14 trailers 
+for road tractors, 3 mobile 
+cranes, 3 dump trucks, 6 
+cesspit emptiers, 2 backhoe 
+loaders, 3 bulldozers, 1 
+compactor roller, 2 electric 
+forklifts, 1 tractor, 
+lightweight paving slabs. 
+8.  Electricity production Continue and finalize works 
+at CTE Iernut 
+The contract for “Completion of works and 
+commissioning of the investment : 
+Development of CTE Iernut by building a new 
+combined cycle gas turbine power plant” is in 
+progress; the following were executed under 
+said contract: works on the electrical and 
+automation systems, and tests were 
+performed on the thermomechanical systems, 
+with several systems and circuits being 
+inspected/tested/checked. 
+9.  Partnerships Lukoil Overseas: 
+- currently Romgaz share is 
+12.2%; 
+- maintaining the current 
+participation share in EX -30 
+Trident block, Black Sea, 
+- prepare drilling, ensure 
+wells in Ex-Trident block; 
+-geophysical and 
+geochemical studies, 
+general and administrative 
+expenses. 
+ 
+- works were performed to prepare the drilling 
+of Lira 2A  field wells and bids were held to 
+acquire drilling works; 
+In April 2024, ANRM PSG approved the 
+participation of partners in the 2nd stage of the 
+optional appraisal phase; 
+ 
+Amromco Energy: 
+- Romgaz share is 50% 
+- abandoning 8 wells, 
+according to the Annual Plan 
+- Tender Specifications were prepared to draw 
+up the Technical Project and steps were taken 
+to obtain the necessary approvals; 
+-permits and authorizations were obtained to 
+abandon wells  and to carry out demolition 
+works of well facilities and of access roads to 
+abandoned wells. 
+Raffles Energy: 
+- Joint Operating Agreement 
+for E3 -1 Brodina block 
+(Romgaz share is 50%) 
+- Gas to Power (G2P) project 
+putting well 1 Voitinel in 
+experimental production 
+- A Solution Study was drawn up by a local 
+company (from Suceava); 
+- the following were obtained: updated 
+Urbanism Certificate and part of the necessary 
+approvals from the utility companies in the 
+area; 
+- ANRMPSG requested a new study until 
+September 15, 2025. 
+10.  Financial assets SNGN Romgaz SA financed 
+Romgaz Black Sea Limited to 
+support its current activity 
+and to finance its 
+investments. 
+For the first half of 202 5, 
+financing of RON 1, 908,270 
+thousand were planned. 
+financing in amount of RON 1,341,511 
+thousand, granted to develop the 
+infrastructure of RBS.  
+ 
+ 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 28 of 53 
+ 
+During the reviewed period, investments amounting to RON 244,339 thousand were implemented. 
+Investments were lower than planned due to the following: 
+- monthly financing granted to RBS was lower than planned; 
+- as regards Lukoil partnership - well drilling has been postponed by the Operator, and the 
+decision  regarding the schedule of future operations will only be made in August 2025;  
+- delayed completion of the procurement procedure for “ Modernisation of SNGN Romgaz SA 
+building, 1 -3 Verii street, Bucharest ” due to the appeal received before concluding  the 
+contract. The contract is now in progress; 
+- procurement of a series of IT equipment such as: computers, graphic stations, extending Data 
+Centre, document management system  were delayed from various reasons – complex 
+documentations, extended terms for clarifications, etc.; 
+- extension of the procurement period for works on the investment: "Surface facilities at wells 
+14, 15, 16 Boteni and group 1 Boteni, gathering pipeline group 1 Boteni, surface facilities at 
+wells 5 and 6 Herepea, group 5 Herepea and collector, dehydration stations Boteni and 
+Herepea" as the first procurement procedure was cancelled  it was requisite to start all over 
+again; 
+- delays related to the project “Development of CTE Iernut by building a new combined cycle 
+gas turbine power plant ” are mainly due to poor planning of the works, delays in the 
+preparation of parts of the technical design, insufficient number of personnel on site;  
+- the contract regarding the “Construction of a Fish Ladder for Iernut Power Plant Dam”  the 
+execution works were delayed, namely suspended due to the negative temperatures recorded 
+in the first quarter of 2025, the contractor was unable to access the site for a period of 
+approximately 45 days due to flooding caused by Mureș River in the area of the fish ladder;  
+- delays due to the long time required to prepare and finalize the specifications, given the 
+complexity of the technical documentation involved. In some cases, their preparation was 
+conditioned upon  obtaining specific approvals, such as those relat ed to environment and 
+water management; 
+- delayed deliveries of fixed assets/investment objectives. 
+ 
+For 2025, Depogaz subsidiary has an approved investment program of RON 198,573 thousand.  
+ 
+The investments were financed both from own sources and from European funds.  
+Concerning Bilciurești Underground Gas Storage PCI 6.20.7 Project ”Daily Withdrawal Capacity 
+Increase – Bilciurești UGS”, it is partially financed from European funds through the Connecting Europe 
+Facility, based on ARES (2023) 3025367/28.04.2023 grant agreement. The amount of the grant is EUR 
+38 million.  On the date of signing the contract an advance payment was unlocked representing 50% 
+of the grant value. The amount was transferred in the bank accounts of the company in July 2023.  
+The amounts required to finance this project, apart from the grant, will be provided from own sources 
+and loans. Own sources of funding originate from company profit. Based on the documents sent at 
+the end of 2023 and 2024 fiscal years, SNGN Romgaz SA Mediaș accepted to reduce the dividends due 
+by DEPOGAZ as subsidiary in order to finance major projects. The financing amount of RON 131 
+million, 2024 dividends and RON 105 million, 2023 dividends, constitute a total of RON 236 million.  
+ 
+In H1 2025, Depogaz had an approved investment program amounting to RON 57,140.50 thousand and 
+achieved RON 23,668.71 thousand, representing 41.42% of the program, as follows:  
+*RON thousand* 
+Item 
+No. 
+Specification Planned Results 
+0 1 2 3 
+1. Exploitation of fields and UGSs, and related infrastructure 
+and utilities 7,700.00 7,410.97 
+2. UGS related activities 33,000.00 15,811.75 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 29 of 53 
+ 
+Item 
+No. 
+Specification Planned Results 
+3. Retrofitting and revamping of installation and equipment, 
+surface infrastructure, utilities 11,200.00 47.49 
+4. Independent equipment and installations 3,210.50 335.76 
+5. Expenses related to consultancy, studies and projects, 
+software, licenses and patents etc. 2,030.00 62.74 
+ TOTAL GENERAL 57,140.50 23,668.71 
+Note: values in the table are not in accordance with IFRS 
+ 
+The following main investment objectives recorded achievements in H1 2025:  
+1. Modernisation of the infrastructure of Bilciuresti natural gas storage system  
+During H1, the following works included in Phase II of the project were carried out:  
+• Contractual agreement for works related to PCI 6.20.7 Bilciuresti Underground Gas Storage 
+“Daily Withdrawal Capacity Increase – Bilciuresti UGS” works for “Increasing the daily gas 
+withdrawal capacity in Bilciuresti Storage Facility” – Lot 1 “Modernization  of well groups”: 
+RON 152.95 thousand; 
+• Contractual agreement for works related to PCI 6.20.7 Bilciuresti Underground Gas Storage 
+“Daily Withdrawal Capacity Increase – Bilciuresti UGS” works for “Increasing the daily gas 
+withdrawal capacity in Bilciurești Storage Facility” – Lot 2 “Modernization  of wells”: RON 
+13,694.18 thousand. 
+• Contractual agreement for works related to PCI 6.20.7 Bilciuresti Underground Gas Storage 
+“Daily Withdrawal Capacity Increase – Bilciuresti UGS” works for “Increasing the daily gas 
+withdrawal capacity in Bilciuresti Storage Facility” – Lot 3 “Injection/wit hdrawal gathering 
+pipeline DN600 PN150 Butimanu – Bilciuresti”: RON 53.29 thousand. 
+• Contractual agreement for works related to PCI 6.20.7 Bilciuresti Underground Gas Storage 
+“Daily Withdrawal Capacity Increase – Bilciuresti UGS” works for “Increasing the daily gas 
+withdrawal capacity in Bilciuresti Storage Facility” – Lot 4 “Cooling syste m” RON 27.25 
+thousand. 
+• Contractual agreement for works related to PCI 6.20.7 Bilciuresti Underground Gas Storage 
+“Daily Withdrawal Capacity Increase – Bilciuresti UGS” – works for “Increasing the daily gas 
+withdrawal capacity in Bilciuresti Storage Facility” – Lot 5 “Digitalization of the gas storage 
+process in Bilciuresti Storage Facility”: RON 9.87 thousand. 
+• General project expenses: RON 315.54 thousand. 
+ 
+2. Increase natural gas underground storage capacity of Ghercesti UGS 
+During H1 2025, the development of the technical project for the design phase of the modernization 
+of 15 wells within Ghercesti UGS remained suspended, due to difficulties encountered in acquiring 
+the lands required for the execution of the project. 
+• Within the investment objective “Gas compression, dehydration and metering facility for 
+increasing the underground storage capacity of Ghercesti UGS” expenses were recorded 
+related to design in the amount of RON 36.49 thousand. 
+• Within the investment objective “Gas compression, dehydration and metering facility for 
+increasing the underground storage capacity of Ghercesti UGS” fees were paid for permits 
+and approvals and for the issuance of the Construction Permit in the amount of RON 1,558.67 
+thousand. 
+3. Increase natural gas underground storage capacity of Sarmasel UGS (Transylvania)  
+During H1 2025, works for the surface facilities, access roads, concrete slab platforms and well 
+enclosures at 6 new wells, included in Phase I of the “Increase of the Underground Gas Storage 
+Capacity of Sarmasel UGS from 900 million cm/cycle to 1550 million cm/cycle” project continued and 
+were finalized, as follows: 
+• Drilling works for 6 new wells and surface facilities, well perimeter and access road: RON 
+7,410.97 thousand; 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 30 of 53 
+ 
+• Modernization of 12 existing wells: RON 11.00 thousand; 
+• Design works for power supply through a second power line at Sarmasel Compressor Station: 
+RON 62.74 thousand. 
+4. Other achievements within the Investment Program during H1 2025 consisted of the 
+acquisition and putting into operation of independent machinery and equipment, retrofitting 
+and revamping of installation and equipment, surface infrastructure, utilities:  
+• Modular containers for guard posts and break -in prevention systems/video surveillance 
+systems – RON 247.76 thousand; 
+• Prefabricated modular buildings – RON 88.00 thousand. 
+The development projects of natural gas storage system are also included in the Development Plan of 
+the Natural Gas National Transmission System for 2024-2033, approved by ANRE pursuant to Decision 
+No. 2717/December 17, 2024. 
+ 
+For 2025, Romgaz Black Sea Limited  has a fully approved investment program in amount of RON 
+3,818,484 thousand. 
+In the first 6 months of 2025, the subsidiary had an approved investment program of RON 1,921,011 
+thousand and made investments in amount of RON 1,424,337 thousand representing 74.15% of it, as 
+follows: 
+Item 
+No. 
+Specifications Planned   H1 2025 
+(RON thousand) 
+Results H1 2025 
+(RON thousand) 
+1. Development activities 1,901,375   1,423,777 
+2. Exploration activities   19,637    559 
+ TOTAL GENERAL 1,921,011 1,424,337 
+Note: values in the table are not IFRS compliant  
+ 
+Neptun Deep is on track for first gas delivery in 2027. 
+The progress recorded in first half of 2025 in relation to the investments of ROMGAZ BLACK SEA 
+LIMITED is in line with the work programs, budget and the execution calendar related to the Neptun 
+Deep project. 
+Project’s key achievements in H1 of 2025 are: 
+• In Q1 2025 was spudded the first gas production well of Neptun Deep project 5.  We continue 
+drilling and well completion in Pelican South field, in the Black Sea.   Ten (10) gas production wells 
+will be drilled in total, four (4) wells of which in Pelican Sud field and six (6) wells in Domino field.  
+• In Q2 2025 started the construction of micro tunnel in Tuzla, Constanța county, Romania.  
+In addition to drilling and micro tunnel  operations, work continues on various components of the 
+Neptun Deep project: construction of offshore production platform, manufacturing the subsea 
+systems for offshore infrastructure, construction of the field support vessel for production operations, 
+and execution of the natural gas metering station and control centre room. 
+The project has a global dimension in terms of execution because the equipment that will be part of 
+the productive infrastructure is manufactured in various locations of the contractors, including in 
+Romania. 
+Local and international experience will be deployed on a wide range of services and goods necessary 
+for delivery of the project, both for drilling and well completion as well as for the production 
+infrastructure.  
+ 
+5 https://www.romgaz.ro/en/omv-petrom-and-romgaz-spud-first-gas-production-well-neptun-deep-project?%2Fomv-petrom-
+si-romgaz-au-inceput-forajul-primei-sonde-de-exploatare-gaze-naturale-din-proiectul= 
+ 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 31 of 53 
+ 
+The significant progress recorded in the first half of 2025 confirms the commitment of titleholders to 
+fulfil the development -exploitation work programs for Pelican South and Domino commercial gas 
+fields located in Neptun Deep block.   
+Neptun Deep is in line with development strategy of ROMGAZ and will create important opportunities 
+for Romania. The project will contribute to Romania's energy security and independence, support the 
+energy transition process, contribute to the economic growth and will represent an energy resilience 
+advantage at the regional level. 
+Development phase of Domino and Pelican South commercial gas fields is ongoing and includes an 
+infrastructure of 10 wells, 3 subsea production systems and associated flow lines, one offshore 
+platform, the main gas pipeline to Tuzla and a gas measurement st ation. The platform generates its 
+own energy, operating at the highest standards of safety and environmental protection.  
+The investments necessary for the development phase, for both Titleholders RBS and OMV Petrom, 
+are overall up to 4 billion Euro.  
+The exploration activity within the Neptun Deep block is ongoing, with the aim of identifying and 
+evaluating further and exploiting the energy potential of the Black Sea.  
+Information about the progress of Neptun Deep project:  https://www.romgaz.ro/en/proiectul-
+neptun-deep-progressing-planned-milestones-january-june-2025?%2Fproiectul-neptun-deep-
+avanseaza-conform-planului-realizari-ianuarie-iunie-2025=  
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 32 of 53 
+ 
+IV. OTHER SIGNIFICANT ASPECTS  
+The regulatory framework for natural gas  production, transmission, distribution, supply and 
+storage, organization and operation of the gas sector, market access as well as criteria and 
+procedures for granting authorizations and/or licenses in the natural gas sector are set by Law No. 
+123/20126. 
+Romgaz Group operates both on the regulated market by performing the gas distribution activity and 
+on the free market by performing gas and electricity production and supply activities and underground 
+gas storage activities. 
+ 
+Underground Gas Storage  
+The underground gas storage activity is a public service, a deregulated activity which can be carried 
+out only by operators licensed by ANRE. The tariffs for carrying out the underground gas storage 
+activity are approved by Depogaz Board of Directors. 
+ 
+The applied storage tariffs in the first half of 2025 are shown in the table below:   
+Tariff component Unit Tariffs 
+(January 1, 
+2025- March 
+31, 2025) 
+Tariffs 
+(April 1, 2025- 
+June 30, 2025) 
+Volumetric component related to gas 
+injection RON/MWh 6.86 6.47 
+Fixed component related to storage 
+capacity booking  
+RON/MWh/storage 
+cycle 10.34 10.85 
+Volumetric component related to gas 
+withdrawal  RON/MWh 5.43 5.34 
+ 
+DEPOGAZ holds License No. 1942/2014 to operate 5 underground gas storages developed in depleted 
+gas reservoirs, the total capacity of which represents approximately 90.54% of the total storage 
+capacity of Romania. 
+ 
+Natural Gas Trading  
+Romgaz natural gas trading policy is based on principles governed by transparency, competition, equal 
+and non-discriminatory treatment, efficiency and effectiveness.  
+In the context set in the trading policy and taking into account the specific regulations, natural gas is 
+traded using two sales channels: trading on the centralized market managed by the Romanian 
+Commodities Exchange and bilateral negotiations.   
+In H1 2025 natural gas trading was influenced to some extent both in terms of quantity and pricing, 
+by specific regulations, namely GEO No. 27/2022 and GEO No. 6/2025.  
+ 
+1. Supply of Natural Gas at a Regulated Price 
+Based on this regulation, the Transmission and System Operator – TSO (S.N.T.G.N. Transgaz S.A.), on 
+the basis of the information transmitted by natural gas producers on one hand and suppliers of 
+household customers (SHC), suppliers of heat producers (SHP) , directly by the heat producers (HP) 
+and the transmission and distribution network operators (NO) on the other hand, determined and 
+transmitted to each producer the gas quantities representing the contracting obligation for the 
+periods April 1, 2022 – March 31, 2023, April 1 2023-March 31, 2024, April 1, 2024-March 31, 2025 and 
+April 1, 2025 – March 31, 2026, at regulated prices, namely RON 150/MWh until March 31, 2024 and  
+120 RON/MWh beginning with April 1, 2024. 
+The natural gas quantities set by the TSO as a delivery obligation of Romgaz are as follows (MWh):  
+• For April 1, 2022-March 31, 2023: 28,839,939 MWh; 
+ 
+6 Law No. 123 of July 10, 2022 on electricity and natural gas, as subsequently amended and supplemented. 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 33 of 53 
+ 
+• For April 1, 2023-March 31, 2024: 41,256,848 MWh; 
+• For April 1, 2024-March 31, 2025: 25,151,880 MWh; 
+• For April 1, 2025-March 31, 2026: 40,541,044 MWh. 
+ 
+The quantities delivered based on GEO No. 27/2022 (until March 31, 2025), namely GEO No.6 (as of 
+April 1, 2025) are as follows: 
+• H1 2024: 15,303,990 MWh, out of which: 
+o SHC: 11,985,916 MWh; 
+o HP: 2,461,033 MWh, of which 112,118 MWh delivered as SLR7; 
+o NO: 853,791 MWh. 
+o HC: 3,250 MWh, out of which 623 MWh delivered as SLR; 
+• H1 2025: 20,440,770 MWh, out of which: 
+o SHC: 15,978,248 MWh; 
+o HP: 3,679,992 MWh out of which 13,559 MWh delivered as SLR8; 
+o NO: 777,157 MWh; 
+o HC: 5,374 MWh, out of which 2,249 MWh delivered as SLR. 
+ 
+2. Supply of natural gas at capped price 
+According to the provisions of Article 1, paragraph (2) of GEO no. 27/2022 as subsequently amended 
+and supplemented, “for the consumption achieved during the period April 1, 2022 – March 31, 2025” 
+and pursuant to the provisions of Article 1, paragraph (3) of GEO No. 6/2025 “for the consumption 
+achieved during the period April 1, 2025 – March 31, 2026”, the final price invoiced by the gas suppliers 
+is: 
+a) Maximum RON 0.31/kWh, VAT included, for household customers hereinafter referred to as 
+HC;  
+b) Maximum RON 0.37/kWh, VAT included, for non -household customers with an annual gas 
+consumption achieved in the previous year at the place of consumption of maximum 50,000 
+MWh, as well as for heat producers”.  
+The gas quantity invoiced at capped price  in H1 2025 was 2,291 MWh (out of which 1904 MWh SLR) 
+and in H1 2024 was 26,369 MWh (out of which 62 MWh SLR). 
+ 
+The gas quantity traded in H1 2025 was 26,531.5 GWh, 3,035.25 GWh higher than the quantity traded 
+in H1 2024 (23,496.25 GWh) and 3,122 GWh, namely 13.34%, higher than the quantity scheduled to 
+be traded. 
+From the entire quantity traded in H1 2025, 77.04% is gas delivered pursuant to GEO No.27/2022 for 
+H1 2025 and GEO No. 6/2025 for H2 2025, namely 20,440.77 GWh. 
+ 
+The table below shows the average gas supply prices for 2023 – June 2025: 
+Specifications Unit 2023 2024 H1 2025 
+1 2 5 6 7 
+Average gas supply price from 
+internal production9 
+RON/1000 m3 1,722.51 1,443.57 1,393.95 
+RON/MWh 163.85 137.19 132.35 
+ 
+ 
+7 Supplier of last resort (SLR) – the supplier appointed by the competent authority to perform the gas supply service under 
+specific conditions governed by ANRE, to final customers whose supplier is in the position to have its supply license revoked  
+during the performance of its activity or in any other situation identified by ANRE in which final customers do not have natural 
+gas supplied from any other source. 
+8 Supplier of last resort (SLR) – the supplier appointed by the competent authority to perform the gas supply service under 
+specific conditions governed by ANRE, to final customers whose supplier is in the position to have its supply license revoked  
+during the performance of its activity or in any other situation identified by ANRE in which final customers do not have natural 
+gas supplied from any other source. 
+9 Including commodity gas and excluding the cost of services. 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 34 of 53 
+ 
+ 
+ 
+Natural Gas Distribution 
+The regulated distribution tariffs during the reviewed period are approved by ANRE orders, namely:  
+ Order No. 45/2023 on approving the regulated tariffs for gas distribution service performed 
+by Societatea Nationala de Gaze Naturale "ROMGAZ" - S.A. Mediaş (as from April 1, 2023); 
+ Order No. 40/2024 on approving the regulated tariffs for gas distribution service performed 
+by Societatea Nationala de Gaze Naturale "ROMGAZ" - S.A. Mediaş (as from July 1, 2024). 
+ 
+The table below shows the applied tariffs: 
+Specifications April 01, 
+2023-June 
+30, 2024 
+July 01, 
+2024-June 
+30, 2025 
+Distribution tariffs (RON/MWh): 
+• C1 consumption up to 280 MWh 
+• C2 annual consumption between 280 and 
+2,800 MWh 
+• C3 annual consumption between 2,800 and 
+28,000 MWh 
+ 
+74.05 
+65.13 
+58.29 
+ 
+89.68 
+78.88 
+70.59 
+ 
+ 
+The summarized breakdown of litigations involving Romgaz as of June 30, 2025 shows the following:  
+ The total number of litigations recorded by the company is 165 pending cases, out of which:  
+ 64 cases where Romgaz is plaintiff; 
+ 101 cases where Romgaz is defendant; 
+ 3 cases where Romgaz is a civil party/aggrieved party; 
+ The total value of files where Romgaz is a party amounts to (approximately) RON 334 million; 
+ The total value of files where the company is a plaintiff amounts to (approximately) RON 
+270.5 thousand; 
+ The total value of files where Romgaz is a defendant amounts to (approximately) RON 63.5 
+million. 
+ The total value of files where Romgaz is a civil party/aggrieved party amounts to 
+(approximately) RON 233. 
+ 
+In accordance with the provisions of Article 52, paragraph (6) of GEO No. 109/2011 “ In the half-year 
+and annual reports of the board of directors […] the legal acts concluded under the conditions of 
+paragraphs (1) and (3) […] shall be mentioned in a special chapter”. 
+Paragraph(1) provides as follows: 
+“The Board of Directors […] convenes the general meeting of shareholders for the approval of any 
+transaction if it has, individually or in a series of concluded transactions, a value higher than 10% of 
+the public enterprise net assets value or higher than 10% of the public enterprise revenue in 
+accordance with the last audited financial statements, with the board members or the managers or, 
+where appropriate, with the members of the supervisory board or directorate, the employees, the 
+shareholders who have control over the company or a company controlled by them”.  
+Paragraph (2): “The obligation to convene a meeting shall be the responsibility of the board of 
+directors […] and in the case of transactions concluded with the spouse, relatives or relatives by 
+affinity up to the fourth degree including of persons mentioned in paragraph (1)”.   
+Paragraph (3): “The board of directors […] informs the shareholders, during the first general meeting 
+of shareholders taking place after the conclusion of the legal act, on any transaction concluded by 
+the public company with: a) the persons mentioned in p aragraph (1) and (2), if the value of the 
+transaction is below the level established in paragraph (1); b) another public company or with the 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 35 of 53 
+ 
+public supervisory authority, if the value of the transaction, individually or in a series of 
+transactions, is at least the RON equivalent of EUR 100,000”. 
+ 
+Transactions concluded under the provisions of Article 52 of GEO No. 109/2011 are published on 
+Romgaz website at www.romgaz.ro  → Investors → Interim reports. 
+ 
+In addition to the obligation provided in Article 52 of GEO No. 109/2011, pursuant to Article 108, 
+paragraph (1) of Law No. 24/2017 on issuers of financial instruments and market operations, “The 
+issuers publicly announce, by preparing and publishing a report, significant transactions with 
+affiliated parties, after their approval, pursuant to paragraph (8) and at the latest on their 
+conclusion”. 
+Paragraph (3) provides the following: 
+“Within the meaning of paragraph (1), “ significant transaction” means any transfer of resources, 
+services or obligations regardless of whether it implies payment of a price or not, whose individual 
+or cumulative value represents more than 5% of the net assets of the issuer pursuant to the latest 
+individual financial reports published by the issuer, […]” 
+Paragraph (8): “Significant transactions with affiliated parties are approved by the board of directors 
+or by the supervisory board of the issuer in accordance with procedures that prevent an affiliated 
+party from taking advantage of its position and offer adequate prote ction of the interests of the 
+issuer and shareholders who are not affiliated parties including minority shareholders. The affiliated 
+party cannot take part in the approval and voting of the significant transaction which involves such 
+affiliated party, under the penalty of nullity, by court decision, by the decision taken in violation of 
+this prohibition.” 
+Through the amendments and supplements brought by Law No. 11/2025 to Law 24/2017, beginning 
+with March 15, 2025, paragraph (9) was amended as follows: “Provisions of paragraph (1), (2) and (4) 
+– (8) do not apply to transactions concluded during the normal course of activity under normal market 
+conditions”. 
+Consequently, beginning with March 15, 2025, ROMGAZ does not publish reports on significant 
+transactions with affiliated parties if such transactions are concluded during the normal course 
+of activity under normal market conditions. 
+ 
+Operational risks: 
+ Full non-performance of gas production program (partial achievement of planned production) due 
+to some factors that can impact the production capacity, such as:  
+▪ Major defects occurred during operation of gas dehydration stations, compressor stations, 
+gathering pipelines that require a long period of time to be repaired;  
+▪ High pressures in the National Transmission System (NTS) which negatively impact the 
+operational performance of production facilities;  
+▪ Reduced gas consumption on some subsystems of the NTS with negative impact on gas 
+deliveries from Romgaz production obtained from sources captive to these consumption 
+directions;  
+▪ Reduced use of production facilities due to unfavourable weather (suspended electricity 
+supply, landslides – pipeline ruptures);  
+▪ non-compliance with the schedule of works related to putting into operation of new 
+production facilities (technological facilities, gathering lines, etc.); 
+▪ lack of materials and spare parts for performing preventive and corrective maintenance works 
+at the company’s main production facilities (wells, gas drying stations, compressor stations, 
+pipelines);  
+ increase of production costs following national and European regulations. 
+Investment risks:  
+ non-performance of the Investment Program in physical and value terms, in case of unforeseen 
+situations; 
+ defective or delayed performance of investment works due to non-compliance with tender books, 
+technical specifications of technical projects and performance schedules.  
+ 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 36 of 53 
+ 
+From January 1 to June 30, 2025, the activity of the Internal Public Audit Department was carried out 
+in accordance with the Internal Public Audit Annual Plan endorsed by the Board of Directors.  The 
+department is organized as a distinct structure, directly subordinated to the Board of Directors, having 
+the role of providing independent assurance on the efficiency and conformity of company processes.  
+Half-year results: 
+Three internal public audit missions were finalised, two of which were regularity/conformity missions 
+and one assessment missions and seventeen recommendations were issued. Audited fields targeted: 
+information technology, well drilling, internal management  control system and the activity carried 
+out by the Internal Public Audit Office of Depogaz subsidiary, under the authority of the Internal 
+Public Audit Department. Recommendations were aimed at optimizing processes, mitigating risks and 
+increasing operational efficiency.  
+During this period, within the efforts to consolidate the procedural framework, the Specific 
+Methodologic Rules on the Organization and Performance of the Internal Public Audit Activity within 
+S.N.G.N. Romgaz S.A. and the entity under the authority of S.N.G.N Romgaz S.A. Mediaș (S.N.G.N. 
+Romgaz S.A. – Filiala de Înmagazinare Gaze Naturale  Depogaz Ploiești S.R.L.) . These rules were 
+endorsed by the Ministry of Energy – the Internal Public Audit Compartment and approved by the 
+Board of Directors and are currently applicable.    
+Quality and impact: 
+The activities carried out by the internal public audit are adding value to the company, through the 
+recommendations made during missions. The quality of internal audit reports is one of the main 
+objectives of Romgaz internal audit activity, as these are t he essence of internal audit work, 
+reflecting the professional abilities of internal auditors.  
+An indicator of the quality of audit reports is that the draft internal public audit reports were 
+transformed in internal public audit reports, in the absence of notices from audited structures to 
+modify the initial findings. Findings were backed up by sup porting documents and recommendations 
+were given for the identified deficiencies/issues aimed at improving the audited activities.  
+The audit reports were endorsed by the Board of Directors, without comments or disclaimers.  
+The monitoring activity: 
+Monitoring the implementation of the recommendations made in the endorsed audit reports, 
+increasing the efficiency of their implementation as well as complying with the implementation 
+deadlines undertaken in the Action Plan are permanent concerns of the In ternal Public Audit 
+Department. 
+During H1 2025, 39 valid recommendations from previous years as well as from this year were 
+monitored, with the following results: 
+➢ 15 recommendations implemented within the set deadline; 
+➢ 16 recommendations partially implemented (in the process of implementation) for which the 
+implementation deadline has not been exceeded; 
+➢ 8 recommendations not implemented, of which: 
+▪ 6 recommendations for which the implementation deadline has not been 
+exceeded; 
+▪ 2 recommendations with the implementation deadline exceeded. 
+As a company listed on BVB, Romgaz carried out the following activities to meet the requirements of 
+information and transparency concerning company business:  
+ publication of regular (financial) reports, current reports and press releases on new events 
+concerning the activity of the company, in accordance with the legal provisions applicable to 
+capital market issuers; 
+ organisation of regular conference calls with investors and financial analysts to discuss the 
+reported economic and financial results (according to the financial calendar approved by company 
+management);   
+ participation in conferences organized by brokers/local and international financial institutions (as 
+one-to-one meetings with investors);  
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 37 of 53 
+ 
+ participation in meetings/telephone discussions at the request of financial analysts/investors;   
+ drafting company presentations – as support for discussions during meetings with investors, as 
+well as reports including preliminary operational data – to be published on BVB;  
+ providing prompt answers to requests for information from analysts/investors - as a permanent 
+activity;   
+ participation in other events dedicated to the capital market.  
+In H1 2025, for a transparent information of investors, Romgaz participated in the following events 
+and carried out specific activities, such as: 
+➢ 1 conference call organized by Romgaz with financial analysts and investors to discuss the 
+preliminary economic-financial results reported for 2024 – on February 28, 2025;  
+➢ 1 conference call to discuss the economic -financial results reported for Q1 2025 – on May 16, 
+2025;  
+➢ 2 international conference calls organized in Warsaw by Erste Group Bank AG and in London by 
+Wood & Company Financial Services a.s., as one -to-one meetings with institutional financial 
+investors;   
+➢ Participation in meetings and conference calls with institutional financial investors;  
+➢ Providing prompt answers to requests for information from financial analysts and investors 
+(legislative, operational, financial public information)    
+ 
+Romgaz involvement in projects or programs of interest for the progress of communities is motivated 
+by the desire to meet the expectations of the society, by financially supporting, through partial or 
+full sponsorships, actions and initiatives, within the budgeted limits, proving a proactive attitude in 
+the field of social responsibility and increasing the awareness of stakeholders on the importance and 
+benefits of applying the principles of social responsibility.  
+Romgaz aims to support projects or programs of interest for the progress of communities aimed at 
+improving the quality of life, welfare and health of communities, in particular targeting the areas 
+where the company operates, but without excluding the extension of the area of intervention. 
+In H1 2025, Romgaz carried out sponsorships in amount of RON 2.99 million as follows:  
+➢ RON 0.80 million for health (category a) of GEO No. 2/2015); 
+➢ RON 1.74 million for education, social and sports (category b) of GEO No. 2/2015);  
+➢ RON 0.45 million for other areas (category c) of GEO No.2/2015). 
+  
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 38 of 53 
+ 
+V. CONSOLIDATED FINANCIAL -ACCOUNTING STATEMENT  
+The table below shows a summary of the consolidated financial position as of June 30, 2025, as 
+compared to December 31, 2024. 
+INDICATOR December 31, 
+2024                   
+(RON thousand) 
+June 30, 
+2025               
+(RON thousand) 
+Δ                             
+(%) 
+1 2 3 4=(3-2)/2x100 
+ASSETS 
+ 
+ 
+ 
+Non-current assets      
+Property, plant, and equipment    8,418,794 9,885,243 17.42 
+Intangible assets   5,131,142  5,130,031  -0.02 
+Investments in associates 59,426 63,245 6.43 
+Deferred tax assets 356,640 362,464 1.63 
+Other financial assets   5,616   5,603 -0.23 
+Right of use assets 13,424 15,000 11.74 
+Total non-current assets 13,985,042 15,461,586 10.56 
+Current assets    
+Inventories 394,073  371,108  -5.83 
+Greenhouse gas certificates 137,244  185,314  35.03 
+Trade and other receivables 837,805   948,758   13.24 
+Bank deposits other than cash and cash equivalents  2,625,339  2,888,788  10.03 
+Other assets   79,362  156,243  96.87 
+Current income tax receivables 3,863 - -100.00 
+Cash and cash equivalents 1,852,154 1,441,871 -22.15 
+Total current assets 5,929,840 5,992,082 1.05 
+TOTAL ASSETS 19,914,882 21,453,668 7.73 
+EQUITY AND LIABILITIES    
+Equity and reserves    
+Share capital 3,854,224  3,854,224  0.00 
+Reserves 3,966,562  6,492,425  63.68 
+Retained earnings  6,365,290 4,914,321 -22.80 
+TOTAL EQUITY AND RESERVES 14,186,076 15,260,970 7.58 
+Non-current liabilities     
+Retirement benefit obligation 204,550 203,624 -0.45 
+Provisions    351,789 356,417 1.32 
+Deferred income   386,849 386,839 0.00 
+Borrowings  484,975 330,051 -31.94 
+Bonds 2,476,433 2,529,270 2.13 
+Lease liability 10,899 12,281 12.68 
+Total non-current liabilities 3,915,495 3,818,482 -2.48 
+Current liabilities     
+Trade and other payables   456,770 539,555 18.12 
+Contract liabilities 
+  290,811 125,569 -56.82 
+Current tax liabilities 
+3,563  126,478  3,449.76 
+Deferred income 486  381  -21.60 
+Provisions  162,689  114,021  -29.91 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 39 of 53 
+ 
+INDICATOR December 31, 
+2024                   
+(RON thousand) 
+June 30, 
+2025               
+(RON thousand) 
+Δ                             
+(%) 
+Lease liability  4,729   4,458  -5.73 
+Borrowings   323,371 330,094 2.08 
+Bonds  24,545  85,320  247.61 
+Other liabilities      546,347   1,048,340  91.88 
+Total current liabilities  1,813,311 2,374,216 30.93 
+Total liabilities 5,728,806 6,192,698 8.10 
+TOTAL EQUITY AND LIABILITIES 19,914,882 21,453,668 7.73 
+ 
+NON-CURRENT ASSETS 
+Total non-current assets increased by 10.56%, i.e. by RON 1.476,54 million. The increase is mainly 
+generated by the investment made in H1 2025 in the development of Neptun Deep Project (RON 
+1,427.88 million). For the construction of the new Combine Cycle G as Turbine Power Plant in Iernut 
+an amount of RON 80.5 million has been invested. 
+ 
+CURRENT ASSETS 
+Inventories 
+Inventories decreased by RON 22.97 million ( -5.83%) compared to December 31, 2024, as a result of 
+a decrease of Romgaz gas inventory stock in UGSs. In H1 2025, Romgaz withdrew from UGSs 168.0 
+million m3, while the injected volume amounted to only 0.6 million m3. 
+ 
+Trade and other receivables 
+Trade and other receivables increased by RON 110.95 million (+13.24%) as of June 30, 2025 compared 
+to the end of the previous year. The increase is due to larger deliveries to customers who guarantee 
+the payment of the equivalent value of delivered gas by bank letters of guarantee as compared to 
+customers paying in advance for gas deliveries (see the decrease of received advance payments from 
+customers, shown as contract liabilities, amounting to RON 165 million as of June 30, 2025 as 
+compared to December 31, 2024). 
+Other assets 
+The increase of other assets by 96.87% as of June 30, 2025 compared to December 31, 2024 is mainly 
+due to the advance payment made for the investments in UGS facilities (RON +35.7 million) and the 
+tax on construction imposed since January 1, 2025. Such tax, amounting to RON 15.3 million, has been 
+recorded as advance payment and is going to affect, on a monthly basis, the result of the financial 
+year. 
+ 
+EQUITY AND RESERVES 
+Group’s equity increased by 7.58% due to the profit achieved in H1 2025.  
+ 
+NON-CURRENT LIABILITIES 
+Non-current liabilities decreased by RON 2.48%, i.e. by RON 97.01 million in H1 2025 as compared to 
+2024, mainly due to the quarterly payments of due instalments relating to long-term bank loans. The 
+increase of bond liabilities is mainly due to negative exchange rate differences. 
+ 
+CURRENT LIABILITIES 
+Current liabilities increased by RON 560.91 million as compared to December 31, 2024. The main 
+influences are shown below. 
+Current tax liabilities 
+The tax liability as of December 31, 2024 was affected by correcting the error on assets shown as held 
+for disposal (see Note 29 of Romgaz Individual Financial Statement as of December 31, 2024). The 
+correction resulted in a decrease of tax paid in the pre vious periods, and the effect on the liability 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 40 of 53 
+ 
+was recorded on December 31, 2024; furthermore, on December 31, 2024, the Company also benefited 
+from the effect of certain fiscal facilities which in turn diminished the tax liability, where such 
+facilities may only be accessed at year end (e. g. legal re serve). The current tax liability as of June 
+30, 2025 represents the Q2 2025 related tax, due in July 2025. 
+ 
+Bonds 
+The increase of current liabilities regarding bonds represents the interest accrued up to June 30, 
+2025. In accordance with the terms of the MTN program, the coupon is payable on a yearly basis, and 
+maturity of such is in October 2025. 
+Other current liabilities 
+The increase by RON 501.99 million of other current liabilities is due to the dividends approved for 
+distribution to Romgaz shareholders in amount of RON 604.34 million, with the payment term in July  
+2025. 
+ 
+The summary of the Group’s consolidated comprehensive income for the period January 1 – June 30, 
+2025, as compared to the similar period of the year 2024 is shown below:  
+Description H1 2024        
+(RON 
+thousand)  
+H1 2025          
+(RON 
+thousand) 
+Variance         
+(RON 
+thousand) 
+Variance             
+(%) 
+ 1 2 3 4=3-2 5=4/2x100 
+Revenue 3,896,939  4,248,065  351,126  9.01 
+Cost of commodities sold (52,093)  (58,279) 6,186  11.87 
+Finance income 114,573  103,078  (11,495) -10.03 
+Other gains or losses (9,957) (35,180) 25,223 253.32 
+Net impairment gains/(losses) on trade 
+receivables 2,939  (7,884) n/a n/a 
+Changes in inventory of finished goods 
+and work in progress 39,705  (48,104) n/a n/a 
+Works performed by the Group and 
+capitalized 124,564  147,914  23,350  18.75 
+Raw materials and consumables used (77,577)  (96,958) 19,381  24.98 
+Depreciation, amortization, and 
+impairment expenses (280,739)  (345,534) 64,795  23.08 
+Employee benefit expense (511,750)  (557,673) 45,923  8.97 
+Taxes and duties (668,416)  (795,309) 126,893  18.98 
+Finance costs (34,073) (65,835) 31,762 93.22 
+Exploration expense (51,140)  (27,225) (23,915) -46.76 
+Share of profit of associates 3,359  3,819  460  13.69 
+Greenhouse gas certificate expense (77,027)  (45,463)        (31,564) -40.98 
+Third party services and other costs (288,579)  (414,377)         125,798  43.59 
+Other income 38,319  7,893  (30,426) -79.40 
+      
+Profit before tax 2,169,047 2,012,948 (156,099) -7.20 
+      
+Income tax expense (331,834) (333,711) 1,877 0.57 
+      
+Net profit 1,837,213 1,679,237 (157,976) -8.60 
+ 
+ 
+ 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 41 of 53 
+ 
+Revenue 
+For the first half year ended June 30, 2025, Romgaz Group achieved a consolidated revenue amounting 
+to RON 4.25 billion, as compared to RON 3.90 billion achieved in the similar period of 2024.  
+The increase in revenue is mainly due to the increase by 9.38% (RON+318.84 million, thus reaching 
+the amount of RON 3.72 billion) in revenues from gas sales (including related services). In terms of 
+volumes, gas deliveries were higher by 12.3% in H1 2025 as compared to H1 2024. In terms of volumes, 
+the H1 2025 deliveries under GEO 27/2022 (January - March 2025), and GEO 6/2025 (April - June 
+2025), respectively, represented 77.26% of total deliveries. 
+As for electric power supply, in H1 2025, the Group delivered power (MWh) lower by 32.51% as 
+compared to H1 2024. Considering that at present the centralized electric power procurement 
+mechanism under GEO 27/2022 is no longer in force (which was in force in H1 2024) and although the 
+sales price obtained by the Group was higher by approx. 46%, the revenue from such activity 
+decreased by 1.49% (RON-2.69 million) to RON 177.32 million. 
+Revenue from condensate sales increased by RON 12.03 million (+27.4%) at an increasing production 
+by 52.93%. 
+Consolidated revenue from gas storage services increased by 8.44% in H1 2025 as compared to H1 
+2024. 
+ 
+Other gains or losses 
+In H1 2025, the Group recorded a net loss of RON 35.18 million, mainly due to negative exchange rate 
+differences as result of revaluation of foreign currency liabilities (bank borrowings and bonds).  
+ 
+Depreciation, amortization, and impairment expenses 
+Depreciation, amortization, and impairment expenses increased by 23.08% in H1 2025 as compared to 
+H1 2024 due to the increase by RON 69.74 million of expenses with impairment adjustments of non -
+current assets. Impairment adjustments were recorded for indiv idual assets, and not as a result of a 
+depreciation test. 
+ 
+Finance expense 
+In October 2024, the Group issued the first tranche of notes under the EMTN program launched in 
+September 2024. The program has a value of EUR 1.5 billion, where the first issuance amounted to 
+EUR 500 million. Related to such issuance, H1 2025 recorded an interest cost amounting to RON 60.42 
+million, out of which an amount of RON 17.94 million was capitalized in the Neptun Deep project 
+cost. 
+ 
+Taxes and duties 
+The expense with taxes and duties increased by 18.98% in H1 2025 as compared to the similar period 
+of the previous year. The increase by RON 126.89 million is mainly due by the increase by RON 92.66 
+million (+24.22%) of windfall tax expenses, as those amounted to RON 475.26 million in H1 2025. The 
+increase of such tax was recorded in Q1 2025, when the Group sold 69.51% of delivered volumes at 
+regulated price, as compared to 80.20% in Q1 2024. In Q2 2025, as a result of the increase in weight 
+of volumes sold  at regulated price (86.64% as compared to 49.73% in Q2 2024), the windfall tax 
+decreased by RON 151.55 million as compared to the similar period of 2024. Compared to Q1 2025, 
+the tax is lower by RON 167.94 million. 
+ 
+Greenhouse gas certificates expense 
+The level of expense with greenhouse gas certificates reflects the value of certificates purchased 
+during the period related to emissions generated from electric power production. The reduction 
+recorded in the six months ended June 30, 2025 as compared to the similar period in 2024  is due to 
+the purchase of a lesser amount of certificates. 
+ 
+Third party services and other costs 
+The increase of third party services costs is mainly due to the increase of costs of gas transmission 
+services and transport capacity booking (RON +54.96 million). 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 42 of 53 
+ 
+The comparative consolidated statement of interim consolidated comprehensive income by segment 
+for the period January-June 2025 and January-June 2024, respectively, is shown below: 
+ 
+ 
+Structure of indicators by activity segments – June 2025                                       *RON thousand* 
+ 
+Description TOTAL,          
+out of 
+which: 
+Gas 
+production 
+and 
+deliveries 
+Underground 
+Gas Storage 
+Electric 
+Power 
+Other 
+activities 
+Consolidation 
+adjustment  
+1 2 3 4 5 6 7 
+Revenue  4,248,065  4,000,296  297,238  263,512  246,679  (559,660) 
+Cost of 
+commodities sold (58,279) (23,413) (1) (34,215) (650) -  
+Financial income 103,078  
+ 
+2,537  6,698  153  144,621  (50,931) 
+Other gains and 
+losses (35,180) (7,782) 2,057  (65) (36,864) 7,474 
+Net impairment 
+(losses)/gains on 
+trade receivables (7,884) (6,825) (968) (77) (14) - 
+Change in 
+inventory (48,104) (49,354) -  124  1,126  - 
+Work performed by 
+the Group and 
+capitalized 147,914  144,261  -  3,653  -  -  
+Raw materials and 
+consumables used (96,958) (65,715) (24,495) (196,774) (20,575) 210,601  
+Depreciation, 
+amortization and 
+impairment 
+expense (345,534) (247,306) (11,418) (20,229) (77,167) 10,586  
+Employee benefit 
+expenses (557,673) (280,918) (41,820) (29,927) (205,008) -  
+Taxes and duties (795,309) (765,798) (12,214) (14,236) (3,061) -  
+Finance costs (65,835) (11,911) (1,531) (13) (70,650) 18,270 
+Exploration 
+expenses (27,225) (27,225) -  -  -  -  
+Share of profit of 
+associates 3,819  -  -  -  3,819  -  
+Greenhouse gas 
+certificate expense (45,463) 8  -  (45,462) (9) -  
+Third party 
+services and other 
+expense (414,377) (542,471) (96,401) (54,042) (70,956) 349,493  
+Other income 7,893  5,930  160  43  2,029  (269) 
+Profit before tax 2,012,948 2,124,314 117,305 (127,555) (86,680) (14,436) 
+Income tax 
+expense (333,711) (24,799) (19,456) - (289,456) - 
+Profit for the 
+period 1,679,237 2,099,515 97,849 (127,555) (376,136) (14,436) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 43 of 53 
+ 
+Structure of indicators by activity segments – June 2024          *RON thousand* 
+Description TOTAL,          
+out of 
+which: 
+Gas 
+production 
+and 
+deliveries 
+Underground 
+Gas Storage 
+Electric 
+Power 
+Other 
+activities 
+Consolidation 
+adjustment  
+1 2 3 4 5 6 7 
+Revenue   3,896,939   3,628,198   281,626   254,420   231,562   (498,867) 
+Cost of 
+commodities sold  (52,093)  (158)  (1)  (51,374)  (560)  -    
+Finance income 114,573 1,832 5,464 93 175,129 (67,945) 
+Other gains and 
+losses (9,957) (8,438) (237) 56 (1,623) 285 
+Net impairment 
+(losses)/gains on 
+trade receivables 2,939 18,540 - (1,444) (14,157) - 
+Change in 
+inventory 39,705 38,672 - 24 1,009 - 
+Work performed by 
+the Group and 
+capitalized 124,564 122,029 - 2,535 - - 
+Raw materials and 
+consumables used (77,577) (47,223) (22,641) (159,330) (19,050) 170,667 
+Depreciation, 
+amortization and 
+impairment 
+expense (280,739) (197,626) (10,172) (4,463) (41,162) (27,316) 
+Employee benefit 
+expenses (511,750) (268,330) (39,227) (28,242) (175,951) - 
+Taxes and duties (668,416) (649,889) (9,875) (7,012) (1,640) - 
+Finance costs (34,073) (11,478) (1,158) (20) (22,226) 809 
+Exploration 
+expenses (51,140) (51,140) - - - - 
+Share of profit of 
+associates 3,359 - - - 3,359 - 
+Greenhouse gas 
+certificate expense (77,027) - - (77,027) - - 
+Third party 
+services and other 
+expense (288,579) (436,936) (88,847) (53,131) (38,224) 328,559 
+Other income 38,319 35,953 23 239 2,328 (224) 
+Profit before tax 2,169,047 2,174,006 114,955 (124,676) 98,794 (94,032) 
+Income tax expense (331,834) 17,489 (16,758) - (332,565) - 
+Profit for the 
+period 1,837,213 2,191,495 98,197 (124,676) (233,771) (94,032) 
+ 
+ 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 44 of 53 
+ 
+Statements of consolidated cash flows recorded for the period January – June 2025, as compared to 
+the similar period of 2024, are shown in the table below:  
+INDICATOR H1 2024           
+(RON 
+thousand) 
+H1 2025 
+ (RON 
+thousand) 
+Variance             
+(%) 
+1 2 3 4=(3-2)/2x100 
+Cash flows from operating activities    
+Net profit for the period 1,837,213 1,679,237 -8.60 
+    
+Income tax expenses   331,834  333,711 0.57 
+Share from associates’ result  (3,359) (3,819) 13.69 
+Interest expense  22,409  52,925 136.18 
+Income from dividends (686) - n/a 
+Unwinding of decommissioning provision 11,664 12,910 10.68 
+Interest income   (113,887) (103,078) -9.49 
+(Gains)/Losses on disposal of non-current assets    4,162 7,317 75.80 
+Change in decommissioning provision recognised in 
+profit or loss other than unwinding  (1,709) (966) -43.48 
+Change in other provisions (14,522) (55,852) 284.60 
+Impairment of exploration assets 4,366 23,452 437.15 
+Impairment of property, plant and equipment and 
+intangibles  20,392 71,049 248.42 
+Net foreign exchange differences  775 47,450 6,022.58 
+Depreciation and amortization  255,981  235,593 -7.96 
+Net gains/(losses) on trade and other receivables   (2,552) 8,229 n/a 
+Inventory impairment 3,393 3,583 5,60 
+Subsidies income (9) - n/a 
+Interest paid (21,633) (10,032) -53.63 
+Income taxes paid (2,004,700) (212,757) -89.39 
+Operating cash flows before movement in working 
+capital 329,132 2,088,952 534.69 
+Movement of working capital  
+   
+(Increase)/Decrease in inventory (106,799) 19,580 n/a 
+(Increase)/Decrease in trade and other receivables  
+468,154  (196,063) n/a 
+Increase/(Decrease) in trade and other liabilities  
+48,105  (313,528) n/a 
+Net cash generated from operations 738,592 1,598,941 116.49 
+Cash flows from investing activities    
+Proceeds from sale of investment in other entities   0 13 n/a 
+Cash placed in bank deposits  (3,205,062) (3,431,021) 7.05 
+Cash received from bank deposits matured 5,348,009 3,176,681 -40.60 
+Interest received 119,257 106,645 -10.58 
+Proceeds from sale of non-current assets 191 336 75.92 
+Acquisition of property, plant and equipment  (1,210,687) (1,632,334) 34.83 
+Acquisition of intangible assets (1,271) (2,027) 59.48 
+Acquisition of exploration assets (33,629) (62,405) 85.57 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 45 of 53 
+ 
+INDICATOR H1 2024           
+(RON 
+thousand) 
+H1 2025 
+ (RON 
+thousand) 
+Variance             
+(%) 
+1 2 3 4=(3-2)/2x100 
+Subsides received 15,800 - n/a 
+Net cash used in investing activities  
+1,032,608 (1,844,112) n/a 
+Cash flows from financing activities    
+Repaying of bank borrowings  (161,652) (161,694) 0.03 
+Dividends paid  (431) (316) -26.68 
+Repayment of lease liability (2,197) (3,102) 41.19 
+Net cash used in financing activities (164,280) (165,112) 0.51 
+Net increase/decrease in cash and cash equivalents   
+1,606,920 (410,283) n/a 
+Cash and cash equivalents at the beginning of the 
+year  
+ 
+535,210 1,852,154 246.06 
+Cash and cash equivalents at the end of the year 2,142,130 1,441,871 -32.69 
+ 
+ 
+  
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 46 of 53 
+ 
+VI. PERFORMANCE OF CONTRACTS OF MANDATE OF BOARD MEMBERS 
+AND OFFICERS  
+Contracts of Mandate of Board Members  
+Romgaz board members were elected for a 4-year mandate starting with March 16, 2023.  
+Besides the contract of mandate, at the basis of their activity is the 2023 -2027 Governance Plan 
+approved by the Board of Directors pursuant to Resolution No. 76 of August 1, 2023. The Governance 
+Plan represents the working tool used by members of the boar d to meet the performance indicators 
+approved by the General Meeting of Shareholders and undertaken in the addendum to the contract of 
+mandate. 
+Reference points of mandate contracts of Romgaz Board members, during the reference period, are 
+as follows: 
+• March 14, 2023 - pursuant to Resolution No. 5, the Ordinary General Meeting of Shareholders 
+elects the members of the Board of Directors and approves the contract of mandate for a 
+period of 4 years starting with March 16, 2023; 
+• September 11, 2023 –pursuant to Resolution No. 12, Romgaz shareholders approve the 
+financial and non -financial performance indicators and the addendum to the contract of 
+mandate of Board members on setting and granting the variable component of remuneration, 
+its calculation and payment method; 
+• November 27, 2023 – pursuant to Resolution No. 15, the General Meeting of Shareholders 
+approves the addendum on correction of errors identified in Annex 1 of the Addendum 
+approved pursuant to OGMS Resolution No. 12 of September 11, 2023;  
+• June 30, 2025 – pursuant to Resolution No. 5, the General Meeting of Shareholders approves 
+the financial and non -financial performance indicators of officers and non -executive Board 
+members resulting from S.N.G.N. ROMGAZ S.A. Governance Plan, in line with the minimum 
+level established for the company, pursuant to the Annex to the Order No. 651/2024 of AMEPIP 
+President which will be an annex to the contract of mandate of officers and Board members 
+as well as the addendum to the contract of mandate to be conc luded with the members of 
+the Board of Directors. 
+Contracts of Mandate of Officers 
+The officers were appointed for a 4-year mandate starting with May 16, 2023. 
+Besides the contract of mandate, at the basis of their activity is the 2023 -2027 Governance Plan 
+approved by the Board of Directors pursuant to Resolution No. 76 of August 1, 2023. The management 
+component of the plan was drawn up by the officers in order to meet the approved and undertaken 
+financial and non-financial performance indicators. 
+Reference points of mandate contracts of Romgaz officers during the reference period, are as follows: 
+• May 15, 2023 – pursuant to Resolution No. 55, the Board of Directors appoints the Chief 
+Executive officer, The Deputy Chief Executive Officer and the Chief Financial Officer for a 4-
+year mandate, starting with May 16, 2023 and approves their contracts of m andate; 
+• May 16, 2023 – pursuant to Resolution No. 57, the Board of Directors approves the addenda 
+on the termination by agreement of the parties of the interim mandate contracts of Romgaz 
+officers starting with May 16, 2023; 
+• September 19, 2023 – pursuant to Resolution No. 87, the Bord of Directors approves the 
+conclusion of the addenda to the contracts of mandate of officers on setting and granting the 
+variable component of remuneration, its calculation and payment method;  
+• December 19, 2023 – pursuant to Resolution No. 115, the Board of Directors approves the 
+conclusion of the addendum to the contract of mandate of Romgaz officers on the correction 
+of financial and non-financial performance indicators approved by OGMS Resolution No. 12 of 
+September 11, 2023. 
+The performance criteria and objectives set in the contracts of mandate are performance criteria and 
+objectives of the board of directors and officers.  
+Measures and actions to be taken to achieve the strategic objectives as set in the Governance Plan 
+will be annually monitored through several performance indicators approved pursuant to OGMS 
+Resolution No. 5/2025, as follows: 
+ 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 47 of 53 
+ 
+a) For non-executive board members 
+No. Performance Indicators (KPI) Objective 
+FINANCIAL INDICATORS 
+1 Revenue  Achieve the target provided in the budget  
+2 EBITDA margin Minimum committed 
+3 Operating expenses from RON 1,000 operating 
+income 
+Maintaining budget level  
+4 Labour productivity (in value units) Achieve the target provided in the budget 
+5 Ratio between liabilities and EBITDA Higher than 0 
+6 Operating profit margin Minimum 24.70% 
+7 Dividend payout ratio 50% 
+8 Capital expenditure ratio Minimum 6.19% 
+9 Current liquidity ratio Minimum 1.00 
+10 Receivables turnover ratio Minimum 3.14 
+NON-FINANCIAL INDICATORS  
+11 Natural gas production decline Maintain a maximum annual decline 
+12 Emissions in the applicable area 1t Reduce/maintain specific CO2 emissions 
+(tCO2/MWh electricity production) 
+13 Fulfilling the natural gas supply obligation 100% of the contracted natural gas 
+quantity 
+14 Average number of training hours per 
+employee 
+Minimum 18 
+15 Implementing a safety system for employees YES 
+16 Total frequency of recorded accidents 0 
+17 Score of client satisfaction Minimum 75% 
+18 Rate of independent members in the BoD  Higher than 55% 
+19 Number of BoD meetings Minimum 12/year 
+20 Rate of participation in BoD meetings  100% 
+21 Number of meetings of the Audit Committee Minimum 4/year 
+22 Rate of women in executive positions  Minimum 30% 
+23 Reporting in due time the company 
+performance indicators, according to the 
+financial calendar 
+Fully observe the reporting schedule 
+24 Implementing the National Anticorruption 
+System  
+Implementing in due time the measures 
+provided under Romgaz Integrity Plan  
+ 
+b) For executive board members/officers, the financial and non -financial performance 
+indicators resulting from the Governance Plan, undertaken in the mandate contract with the 
+scope of meeting Romgaz objectives, are shown below: 
+No. Performance Indicators (ICP) Objective 
+FINANCIAL INDICATORS  
+1 Revenue Achieve the target committed in the 
+budget 
+2 EBITDA Margin Minimum committed 
+3 Operating expenses for RON 1000 operating 
+income 
+Maintain the level committed in the 
+budget 
+4 Labour productivity (in value units) Achieve the target committed in the 
+budget 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 48 of 53 
+ 
+5 CapEx Achieve a minimum level as compared to 
+the program in the budget 
+6 Ratio between liabilities and EBITDA Higher than 0 
+7 Operating profit margin Minimum 24.70% 
+8 Dividend payout ratio 50% 
+9 Immediate liquidity ratio Minimum 0.80 
+10 Inventory turnover Minimum 6.02 
+NON-FINANCIAL INDICATORS  
+11 Natural gas production decline Maintain a maximum annual decline 
+12 Emissions in the applicable area 1t Reduce/maintain specific CO 2 emissions 
+(tCO2/MWh electricity production) 
+13 Fulfilling the natural gas supply obligation 100% of the contracted natural gas 
+quantity 
+14 Market share Higher than 40% 
+15 Average number of training hours per employee Minimum 18 
+16 Number of safety trainings 4 
+17 Total frequency of recorded accidents 0 
+18 Score of client satisfaction Minimum 75% 
+19 Setting risk management policies YES 
+20 Number of full time equivalent employees Minimum 99% of the average number of 
+employees 
+21 Gender pay gap ratio Less or equal to zero 
+22 Reporting in due time the company 
+performance indicators, according to the 
+financial calendar 
+Fully observe the reporting schedule 
+23 Implementing the National Anticorruption 
+System  
+Implementing in due time the measures 
+provided under Romgaz Integrity Plan  
+ 
+Please find below the degree of achievement of performance indicators for January -June 2025; the 
+mandate contracts of executive and of non -executive BoD members and of officers do not set out 
+interim targets, only annual targets. 
+ 
+6. Achieved Financial Indicators of Executive and Non-Executive Board Members 
+ 
+No. Indicator Objective Target 
+January-
+June 2025 
+Achieved 
+January-
+June 2025 
+Degree of 
+achievement 
+weighted with 
+the established 
+targets 
+January-June 
+2025 
+1 Revenue Achieved the target 
+committed in the 
+budget 
+ 
+3,535,063 
+ 
+4,030,007 
+ 
+1.14 
+2 EBITDA margin Minimum 41% 41.00% 74.32% 1.81 
+3 Operating expenses for 
+RON 1000 operating 
+income 
+Maintain the level 
+committed in the 
+budget 389.95 268.03 1.45 
+4 Labour productivity (in 
+value units) 
+Achieve the target 
+committed in the 
+budget 680.68 785.56 1.15 
+5 CapEx Achieve a minimum 
+level as compared to 75% 74% 0.98 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 49 of 53 
+ 
+the program of the 
+budget 
+6 Ratio between 
+liabilities and EBITDA Higher than 0 >0 2.38836 1.00 
+7 Operating profit 
+margin 
+Minimum 24.70% 
+24.70% 47.20% 1.91 
+8 Dividend payout ratio Minimum 50% according to 
+legal 
+provisions 
+according to 
+legal 
+provisions 1.00 
+9 Capital expenditure 
+ratio Minimum 6.19% 6.19% 8.7% 1.40 
+10 Current liquidity ratio Minimum 1.00 1.00 2.82 2.82 
+11 Immediate liquidity 
+ratio  Minimum 0.80 0.80 2.64 3.30 
+12 Inventory turnover Minimum 6.02 6.02 10.94 1.82 
+13 Receivables turnover 
+ratio Minimum 3.14 3.14 4.92 1.57 
+ 
+Please find below the degree of achievement for January-June 2025. 
+a) Achieved financial indicators 
+No. Indicator Objective Degree of 
+achievement 
+weighted with 
+the established 
+targets 
+January-June  
+2025 
+Weight non-
+executive 
+board 
+members 
+Weight in the 
+degree of 
+fulfilment non-
+executive 
+board members 
+1 Revenue Achieve the target 
+committed in the 
+budget 1.14 4% 4.56% 
+2 EBITDA Margin Minimum 41% 1.81 4% 7.25% 
+3 Operating expenses for 
+RON 1000 operating 
+income 
+Maintain the level 
+committed in the 
+budget 1.45 3% 4.36% 
+4 Labour productivity (in 
+value units) 
+Achieve the target 
+committed in the 
+budget 1.15 4% 4.62% 
+5 Ratio between liabilities 
+and EBITDA Higher than 0 1.00 4% 4.00% 
+6 Operating profit margin Minimum 24.70% 1.91 3% 5.73% 
+7 Dividend payout ratio Minimum 50% 1.00 4% 4.00% 
+8 Capital expenditure 
+ratio Minimum 6.19% 1.40 5% 7.00% 
+9 Current liquidity ratio Minimum 1.00 2.82 3% 8.46% 
+10 Receivables turnover 
+ratio Minimum 3.14 1.57 1% 1.57% 
+ Degree of fulfilment of financial indicators  35% 51.54% 
+ 
+ 
+ 
+ 
+ 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 50 of 53 
+ 
+b) Achieved non-financial indicators 
+No. Indicator Objective Achieved 
+January-
+June 
+2025 
+Degree of 
+achievem
+ent 
+weighted 
+with the 
+establishe
+d targets 
+January-
+June  
+2025 
+Weight 
+non-
+executive 
+board 
+members 
+Weight in the 
+degree of 
+fulfilment non-
+executive 
+board 
+members 
+Operational 25% 21.09% 
+1 Natural production 
+decline 
+Maintain an annual 
+decline of maximum 
+2.5% as compared to 
+2022 
+106.63% 1.07 7% 7.49% 
+2 Emissions in the 
+applicable area 1t 
+Reduce/maintain 
+specific CO2 emissions 
+(tCO2/MWh electricity 
+production) 
+0.00 1.00 1% 1.00% 
+3 Fulfilling the natural gas 
+supply obligation  
+100% of the 
+contracted natural gas 
+quantity 
+100% 1.00 5% 5.00% 
+4 Average number of 
+training hours per 
+employee 
+Minimum 18 7.17 0.40 4% 1.60% 
+5 Implementing a safety 
+system for employees 
+YES 100% 1.00 6% 6.00% 
+6 Total frequency of 
+recorded accidents 
+zero 1.12% 0.00 2% 0.00% 
+Public service oriented 15% 17.85% 
+7 Score of client 
+satisfaction*) 
+Minimum 75% 89.19% 1.19 15% 17.85 
+Corporate governance  25% 31.83% 
+8 Rate of independent 
+members in the Board of 
+Directors  
+Higher than 55% 55.56% 1.01 4% 4.04% 
+9 Number of Board of 
+Directors meetings 
+Minimum 12/year 27.00 2.25 3% 6.75% 
+10 Rate of participation in 
+the Board of Directors 
+meetings  
+100% 94.71% 0.95 2% 1.90% 
+11 Number of meetings of 
+the Audit Committee 
+Minimum 4/year 9 2.25 2% 4.50% 
+12 Rate of women in 
+executive positions 
+Minimum 30% 33% 1.11 4% 4.44% 
+13 Reporting in due time 
+Romgaz performance 
+indicators, according to 
+the financial calendar 
+Fully comply with 
+reporting deadlines 
+100% 1.00 5% 5.00% 
+14 Implementing the 
+National Anticorruption 
+System 
+Implement in due time 
+measures provided in 
+Romgaz Integrity Plan 
+100.00% 1.00 5% 5.00% 
+Degree of fulfilment of non-financial indicators    65% 70,57% 
+     
+DEGREE OF FULFILMENT OF PERFORMANCE INDICATORS FOR NON-EXECUTIVE 
+BOARD MEMBERS 
+100% 122.11% 
+*) the indicator is calculated based on information held in 2024 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 51 of 53 
+ 
+a) Achieved financial indicators 
+No. Indicator Objective Degree of 
+achievement 
+weighted with 
+established 
+targets 
+January-June 
+2025 
+ Weight of 
+executive 
+board 
+members/ 
+officers 
+Weight of executive 
+board 
+members/officers in 
+the degree of 
+fulfilment   
+1 Revenue Achieve the 
+target committed 
+in the budget 1.14 9% 10.26% 
+2 EBITDA margin Minimum 41% 1.81 5% 9.06% 
+3 Operating expenses from 
+RON 1000  operating income  
+Maintain the level 
+committed in the 
+budget 1.45 6.5% 9.46% 
+4 Labour productivity (in value 
+units) 
+Achieve the 
+target committed 
+in the budget  1.15 5% 5.77% 
+5 CAPEX Minimum 75% of 
+the budget 0.98 3.5% 3.44% 
+6 Ratio between net debt and 
+EBITDA 
+Higher than 0 
+1.00 5% 5.00% 
+7 Operating income margin Minimum 24.70% 1.91 5% 9.55% 
+8 Dividend payout ratio Minimum 50% 1.00 6.5% 6.50% 
+9 Immediate liquidity ratio Minimum 0.80 3.30 2.5% 8.24% 
+10 Inventory turnover Minimum 6.02 1.82 2.0% 3.63% 
+Degree of fulfilment of financial indicators   50% 70.92% 
+ 
+b) Achieved non-financial indicators 
+No. Indicator Objective Achieved 
+January 
+June 
+2025 
+Degree of 
+achievem
+ent 
+weighted 
+with 
+establishe
+d targets 
+January-
+June 
+2025 
+ Weight of 
+executive 
+board 
+members/ 
+officers 
+Weight of 
+executive 
+board 
+members/offic
+ers in the 
+degree of 
+fulfilment   
+Operational 25% 22.73% 
+1 Natural gas 
+production 
+decline 
+Maintaining the 
+maximum annual decline  106.63% 1.07 7% 7.49% 
+2 Emissions of 
+scope 1t  
+Reduction/maintenance 
+of CO2 emissions directly 
+generated by electricity 
+generation plant   0.00 1.00 1% 1.00% 
+3 Fulfilment of 
+gas supply 
+obligation 
+100% of the contracted 
+gas quantity 100% 1.00 5% 5.00% 
+4 Market share*) Higher than 40% 50.45% 1.26 4.0% 5.04% 
+5 Average 
+number of Minimum 18 7.17 0.40 3% 1.20% 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 52 of 53 
+ 
+No. Indicator Objective Achieved 
+January 
+June 
+2025 
+Degree of 
+achievem
+ent 
+weighted 
+with 
+establishe
+d targets 
+January-
+June 
+2025 
+ Weight of 
+executive 
+board 
+members/ 
+officers 
+Weight of 
+executive 
+board 
+members/offic
+ers in the 
+degree of 
+fulfilment   
+training hours 
+per employee 
+6 Number of 
+safety 
+trainings**)  4 18,168 1.00 3% 3.00% 
+7 Total 
+frequency of 
+recorded 
+accidents  zero 1.12% 0.00 2% 0.00% 
+Public service oriented  10% 11.90% 
+8 Score of client 
+satisfaction***) Minimum 75% 89.19% 1.19 10% 11.90% 
+Corporate governance  15% 15.03% 
+9 Setting risk 
+management 
+policies 
+YES (the risk 
+management procedure 
+is drafted and approved) 1.00 1.00 2% 2.00% 
+10 Number of full 
+time 
+equivalent 
+employees 
+Minimum 99% of the 
+average employee 
+number 99.96% 1.01 3% 3.03% 
+11 Gender pay 
+gap ratio Less or equal to zero -0.32 1.00 2% 2.00% 
+13 Reporting in 
+due time the 
+company 
+performance 
+indicators, 
+according to 
+the financial 
+calendar 
+Fully comply with 
+reporting deadlines 100.00% 1.00 4% 4.00% 
+14 Implementing 
+the 
+Anticorruption 
+National 
+System 
+Implement in due time 
+the measures provided 
+in Romgaz Integrity Plan 
+100.00% 1.00 4% 4.00% 
+Degree of fulfilment of non-financial indicators    50% 49.66% 
+     
+DEGREE OF FULFILMENT OF PERFORMANCE INDICATORS OF EXECUTIVE 
+BOARD MEMBERS/OFFICERS 100% 120.58% 
+*) The indicator is calculated based on information held in April 2025 
+**) considering that the indicator has an extremely low target compared to the number of safety trainings 
+achieved by SNGN Romgaz SA, it was deemed that if the number of trainings was higher than the target set, the 
+indicator is considered to be fulfilled. 
+***) The indicator was calculated based on information held in April 2024 
+ 
+Board of Directors’ Report – H1 2025 
+ 
+ 
+ 
+ 
+Page 53 of 53 
+ 
+Please find attached the Simplified Interim Consolidated Financial Statements for the period s of six 
+months and three months on June 30, 2025 prepared in compliance with the International Accounting 
+Standard 34 adopted by the European Union and not audited by the financial auditor.  
+ 
+CHAIRMAN OF THE BOARD OF DIRECTORS 
+Dumitru Chisalita 
+ 
+…………………………………… 
+Chief Executive Officer, Deputy Chief Executive Officer, Chief Financial Officer, 
+Razvan POPESCU Aristotel Marius JUDE Gabriela TRANBITAS 
+ 
+…………………………………… 
+ 
+…………………………………… 
+ 
+…………………………………… 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SOCIETATEA NAȚIONALĂ DE GAZE NATURALE “ROMGAZ” SA GROUP 
+ 
+ 
+CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS  
+FOR THE SIX-MONTH AND THREE-MONTH PERIOD ENDED JUNE 30, 2025 
+(UNAUDITED) 
+ 
+PREPARED IN ACCORDANCE WITH  
+INTERNATIONAL ACCOUNTING STANDARD 34 AS ADOPTED BY THE EUROPEAN UNION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PricewaterhouseCoopers Audit S.R.L. 
+Ana Tower, 24/3 floor, 1A Poligrafiei Blvd, District 1, 013704 Bucharest, Romania 
+EUID ROONRC.J1993017223405, fiscal registration code RO4282940, share capital RON 7,630 
+T: +40 21 225 3000, www.pwc.ro 
+Report on Review of Condensed Consolidated Interim Financial 
+Statements 
+ 
+To the Shareholders of Societatea Națională de Gaze Naturale “Romgaz” SA 
+ 
+Introduction 
+We have reviewed the accompanying condensed consolidated interim statement of  comprehensive 
+income of Societatea Națională de Gaze Naturale “Romgaz” SA and its subsidiaries (together – the 
+“Group”) for the six month and three month periods ended 30 June 2025, the condensed consolidated 
+interim statement of financial position as at 30 June 2025, the condensed consolidated interim 
+statement of changes in equity for the six month period ended 30 June 2025, the condensed 
+consolidated interim statement of cash flow for the six month and three month periods ended 30 June 
+2025 and related explanatory notes. Management is responsible for the preparation and presentation 
+of these condensed consolidated interim financial statements in accordance with International 
+Accounting Standard 34, “Interim Financial Reporting” as adopted by the European Union. Our 
+responsibility is to express a conclusion on these condensed consolidated interim financial statements 
+based on our review. 
+Scope of review 
+We conducted our review in accordance with International Standard on Review Engagements 2410, 
+“Review of Interim Financial Information Performed by the Independent Auditor of the Entity”. A review 
+of condensed consolidated interim financial statements consists of making inquiries, primarily of 
+persons responsible for financial and accounting matters, and applying analytical and other review 
+procedures. A review is substantially less in scope than an audit conducted in accordance with 
+International Standards on Auditing and consequently does not enable us to obtain assurance that we 
+would become aware of all significant matters that might be identified in an audit. Accordingly, we do 
+not express an audit opinion. 
+Conclusion 
+Based on our review, nothing has come to our attention that causes us to believe that the 
+accompanying condensed consolidated interim financial statements are not prepared, in all material 
+respects, in accordance with International Accounting Standard 34, “Interim Financial Reporting” as 
+adopted by the European Union. 
+ 
+On behalf of 
+PricewaterhouseCoopers Audit SRL 
+Audit firm 
+registered with the Public Electronic Register of financial auditors and audit firms under no. FA6  
+ 
+Florin Deaconescu 
+Financial auditor 
+registered with the Public Electronic Register of financial auditors and audit firms under no. AF1524 
+Bucharest, 13 August 2025 
+Refer to the original signed 
+Romanian version 
+ 
+ 
+  
+CONTENTS: PAGE: 
+  
+  
+Condensed consolidated interim statement of comprehensive income 1 
+Condensed consolidated interim statement of financial position 2 
+Condensed consolidated interim statement of changes in equity 4 
+Condensed consolidated interim statement of cash flows 5 
+Notes  7 
+ 1. Background and general business 7 
+ 2. Significant accounting policies 7 
+ 3. Revenue and other income 9  
+ 4. Cost of commodities sold, raw materials and consumables used 9 
+ 5. Other gains and losses 10 
+ 6. Depreciation, amortization and impairment expenses 10 
+ 7. Income tax  10 
+ 8. Employee benefit expense  10 
+ 9. Taxes and duties 11 
+ 10. Trade and other receivables  11 
+ 11. Provisions 12 
+ 12. Share capital. Earnings per share 12 
+ 13. Cash and cash equivalents. Bank deposits other than cash and cash equivalents 13 
+ 14. Trade and other liabilities. Deferred income 14 
+ 15. Property, plant and equipment 15 
+ 16. Interest bearing borrowings. Bonds 15 
+ 17. Related party transactions and balances 15 
+ 18. Segment information 16 
+ 
+19. Guarantees granted by banks. Contractual commitments for the acquisition of 
+non-current assets 17 
+ 20. Events after the balance sheet date  17 
+ 21. Authorization of financial statements  17 
+ 
+ 
+ 
+ 
+ 
+S.N.G.N. ROMGAZ S.A. GROUP 
+ 
+ 
+CONDENSED CONSOLIDATED INTERIM STATEMENT OF COMPREHENSIVE INCOME  
+ 
+ 
+1 
+ 
+ Note  
+Six months 
+ended  
+June 30, 2025  
+Three months 
+ended 
+June 30, 2025  
+Six months 
+ended  
+June 30, 2024  
+Three months 
+ended 
+ June 30, 2024 
+   '000 RON  '000 RON  '000 RON  '000 RON 
+          
+Revenue 3   4,248,065    1,867,692   3,896,939  1,623,927 
+Cost of commodities sold 4   (58,279)   (21,410)  (52,093)  (32,824) 
+Finance income    103,078    54,704   114,573  60,950 
+Other gains and (losses) 5  (35,180)  (27,514)  (9,957)  (6,938) 
+Net impairment gains/(losses) on 
+trade receivables 10 c)  (7,884)  (4,440) 
+ 
+2,939 
+ 
+(275) 
+Changes in inventory of finished 
+goods and work in progress    (48,104)   8,156  
+ 
+39,705 
+ 
+37,006 
+Work performed by the Group and 
+capitalized    147,914    81,790  
+ 
+124,564 
+ 
+68,061 
+Raw materials and consumables 
+used 4   (96,958)   (50,265) 
+ 
+(77,577) 
+ 
+(39,971) 
+Depreciation, amortization and 
+impairment expenses 6    (345,534)  (167,840) 
+ 
+(280,739) 
+ 
+(137,913) 
+Employee benefit expense 8   (557,673)   (295,703)  (511,750)  (258,978) 
+Taxes and duties 9   (795,309)   (291,425)  (668,416)  (398,371) 
+Finance cost   (65,835)  (23,779)  (34,073)  (16,541) 
+Exploration expense    (27,225)   (12,426)  (51,140)  (21,509) 
+Share of profit of associates    3,819    1,615   3,359  1,385 
+Greenhouse gas certificates 
+expenses    (45,463)   (29,225) 
+ 
+(77,027) 
+ 
+(35,689) 
+Third party services and other 
+costs   (414,377)  (224,222) 
+ 
+(288,579) 
+ 
+(167,212) 
+Other income 3   7,893    3,205   38,319  7,062 
+ 
+Profit before tax   2,012,948  868,913 
+ 
+2,169,047 
+ 
+682,170 
+ 
+Income tax expense 7  (333,711)   (140,653)  
+ 
+(331,834) 
+ 
+(90,284) 
+          
+Profit for the period   1,679,237  728,260  1,837,213  591,886 
+          
+Total comprehensive income for 
+the period   1,679,237  728,260 
+ 
+1,837,213 
+ 
+591,886 
+          
+Basic and diluted earnings per 
+share 12 b)  0.00044   0.00019  
+ 
+0.00048 
+ 
+0.00015 
+ 
+These financial statements were authorized for issue by the Board of Directors on August 13, 2025.  
+ 
+ 
+    
+Răzvan Popescu  Gabriela Trânbițaș 
+Chief Executive Officer  Chief Financial Officer 
+S.N.G.N. ROMGAZ S.A. GROUP 
+ 
+ 
+CONDENSED CONSOLIDATED INTERIM STATEMENT OF FINANCIAL POSITION 
+ 
+ 
+2 
+ Note  June 30, 2025  December 31, 2024 
+   '000 RON  '000 RON 
+      
+ASSETS      
+ 
+Non-current assets      
+Property, plant and equipment 15  9,885,243  8,418,794 
+Intangible assets   5,130,031   5,131,142 
+Investments in associates   63,245   59,426 
+Deferred tax asset   362,464   356,640 
+Right of use asset   15,000   13,424 
+Other financial investments    5,603   5,616 
+      
+Total non-current assets   15,461,586  13,985,042 
+      
+Current assets      
+Inventories   371,108   394,073 
+Greenhouse gas certificates 14 a)  185,314   137,244 
+Trade receivables 10 a)  948,758  837,805 
+Bank deposits other than cash and cash 
+equivalents 13 b)  2,888,788   2,625,339 
+Other assets 10 b)  156,243   79,362 
+Current tax receivable   -   3,863 
+Cash and cash equivalents 13 a)  1,441,871   1,852,154 
+      
+Total current assets   5,992,082  5,929,840 
+      
+Total assets   21,453,668  19,914,882 
+      
+EQUITY AND LIABILITIES      
+      
+Equity      
+Share capital 12 a)  3,854,224   3,854,224 
+Reserves   6,492,425   3,966,562 
+Retained earnings   4,914,321  6,365,290 
+      
+Total equity   15,260,970  14,186,076 
+      
+Non-current liabilities      
+Retirement benefit obligation 11  203,624   204,550 
+Deferred income 14 b)  386,839   386,849 
+Lease liabilities   12,281   10,899 
+Bank borrowings  16 a)  330,051  484,975 
+Bonds 16 b)  2,529,270   2,476,433 
+Provisions  11  356,417   351,789 
+      
+Total non-current liabilities   3,818,482   3,915,495 
+S.N.G.N. ROMGAZ S.A. GROUP 
+ 
+ 
+CONDENSED CONSOLIDATED INTERIM STATEMENT OF FINANCIAL POSITION 
+ 
+ 
+3 
+ 
+ Note  June 30, 2025  December 31, 2024 
+   '000 RON  '000 RON 
+      
+Current liabilities  
+    
+Trade payables 14 a)  539,555   456,770 
+Contract liabilities   125,569   290,811 
+Current tax liabilities  
+ 126,478   3,563 
+Deferred income   381   486 
+Provisions 11  114,021   162,689 
+Lease liabilities   4,458   4,729 
+Bank borrowings  16 a)  330,094  323,371 
+Bonds 16 b)  85,320   24,545 
+Other liabilities 14 a)  1,048,340   546,347 
+      
+Total current liabilities   2,374,216   1,813,311 
+      
+Total liabilities   6,192,698   5,728,806 
+      
+Total equity and liabilities   21,453,668  19,914,882 
+ 
+ 
+ 
+These financial statements were authorized for issue by the Board of Directors on August 13, 2025.  
+ 
+ 
+    
+Răzvan Popescu  Gabriela Trânbițaș 
+Chief Executive Officer  Chief Financial Officer 
+ 
+S.N.G.N. ROMGAZ S.A. GROUP 
+ 
+ 
+CONDENSED CONSOLIDATED INTERIM STATEMENT OF CHANGES IN EQUITY 
+ 
+ 
+ 
+4 
+ 
+Share 
+capital  
+Legal  
+reserve  
+Geological 
+quota reserve  
+Development 
+fund reserve  
+Reinvested 
+profit reserve  
+Reserves for 
+investments in 
+strategic projects 
+ 
+Other 
+reserves   
+Retained 
+earnings  Total 
+     '000 RON  '000 RON  '000 RON  '000 RON  '000 RON  '000 RON  '000 RON  '000 RON  '000 RON 
+                  
+Balance as of January 1, 2025 3,854,224  265,149  486,388   651,678   518,213  2,025,409  19,725   6,365,290  14,186,076 
+Profit for the period -  -  -  -  -  -  -  1,679,237  1,679,237 
+Total comprehensive income for 
+the period -  -  -  -  -  -  -  1,679,237  1,679,237 
+Increase in reserves** -  -  -  269,071   11,435  2,245,357   -  (2,525,863)  -  
+Dividends distribution * -  -  -  -  -  -  -  (604,343)  (604,343) 
+Balance as of June 30, 2025 3,854,224   265,149   486,388   920,749   529,648   4,270,766   19,725   4,914,321  15,260,970 
+                  
+ 
+Balance as of January 1, 2024  385,422   90,294  486,388  3,902,422  472,280  -  19,725  6,204,783  11,561,314 
+ 
+Profit for the period -  -  -  -  -  -  -  1,837,213   1,837,213  
+Total comprehensive income for 
+the period -  -  -  -  -  -  -  1,837,213   1,837,213  
+Dividends distribution -  -  -  (24,579)   -  -  -  (549,228)  (573,807)  
+Increase in reserves -  -  -  1,339,936  -  928,111  -  (2,268,047)  - 
+Increase in share capital 3,468,802   -  -  (3,468,802)   -  -  -  -  -  
+ 
+Balance as June 30, 2024 3,854,224   90,294   486,388   1,748,977   472,280   928,111   19,725   5,224,721   12,824,720  
+*) In April 2025 the Group’s shareholders approved the distribution of dividends of RON 604,343 thousand (2024: RON 549,228 thousand), dividends per share being RON 0.1568 (six months ended June 30,2024: 
+RON 0.1425).  
+**) The increase in reserves was approved by shareholders in 2025. Profit distribution is based on the provisions of Government Ordinance no. 64/2001. The Ordinance is applicable to companies controlled by the 
+Romanian State and states the reserves tha t can be set-up and the level of dividends that should be distributed and the terms of such distribution. Reserves for investments in stra tegic projects were set up 
+based on the changes introduced in 2024 to Government Ordinance no. 64/2001. Development fund reserve may be distributed if the majority shareholder asks for it. The reserve for investments in strategic  
+projects has to be distributed if the funds are not used or committed by the time the investments funded from this reserve are commissioned. All other reserves are not distributable. 
+These financial statements were authorized for issue by the Board of Directors on August 13, 2025. 
+ 
+ 
+    
+Răzvan Popescu  Gabriela Trânbițaș 
+Chief Executive Officer  Chief Financial Officer
+ 
+S.N.G.N. ROMGAZ S.A. GROUP 
+ 
+ 
+CONDENSED CONSOLIDATED INTERIM STATEMENT OF CASH FLOWS 
+ 
+ 
+ 
+5 
+ 
+Six months 
+ended  
+June 30, 2025  
+Three months 
+ended 
+ June 30, 2025 
+ Six months 
+ended  
+June 30, 2024 
+ Three months 
+ended 
+ June 30, 2024 
+ '000 RON  '000 RON  '000 RON  '000 RON 
+        
+Cash flows from operating activities        
+ 
+Net profit  1,679,237  728,260 
+ 
+1,837,213  591,886 
+        
+Adjustments for:        
+Income tax expense (note 7) 333,711   140,653   331,834  90,284 
+Share of associates’ result  (3,819)   (1,615)   (3,359)  (1,385) 
+Interest expense  52,925  17,332  22,409  10,714 
+Income from dividends -  -  (686)  (686) 
+Unwinding of decommissioning provision 
+(note 11) 12,910   6,447   11,664  5,827 
+Interest income  (103,078)   (54,704)   (113,887)  (60,264) 
+Net loss on disposal of non-current assets 
+(note 5) 7,317   1,487   4,162  2,742 
+Change in decommissioning provision 
+recognized in profit or loss, other 
+than unwinding (note 11) (966)   58   (1,709)  (630) 
+Change in other provisions  (55,852)   (32,650)  (14,522)  (17,432) 
+Net impairment of exploration assets 
+(note 6) 23,452   7,895   4,366  - 
+Net impairment of property, plant and 
+equipment and intangibles (note 6) 71,049   35,586   20,392  14,564 
+Foreign exchange differences 47,450  48,452  775  1,381 
+Depreciation and amortization  235,593   108,919   255,981  123,349 
+Net receivable write-offs and movement 
+in allowances for trade receivables 
+and other assets (note 10) 8,229  4,739  (2,552)  673 
+Net movement in write-down allowances 
+for inventory (note 5) 3,583   389   3,393  1,561 
+Subsidies income  -   -   (9)  (2) 
+Interest paid (10,032)   (4,506)   (21,633)  (10,628) 
+Income taxes paid (212,757)  (212,757)  (2,004,700)  (2,004,700) 
+        
+Cash generated from operations before 
+movements in working capital 2,088,952   793,985  
+ 
+329,132  (1,252,746) 
+        
+Movements in working capital:        
+(Increase)/Decrease in inventory 19,580   (26,030)   (106,799)  (71,963) 
+(Increase)/Decrease in trade and other 
+receivables (196,063)  (122,487) 
+ 
+468,154  501,528 
+Increase/(Decrease) in trade, contract 
+liabilities and other liabilities (313,528)   (137,948) 
+ 
+48,105  7,089 
+        
+ 
+Net cash generated by operating 
+activities 1,598,941   507,520  
+ 
+738,592  (816,092) 
+        
+ 
+S.N.G.N. ROMGAZ S.A. GROUP 
+ 
+ 
+CONDENSED CONSOLIDATED INTERIM STATEMENT OF CASH FLOWS 
+ 
+ 
+ 
+6 
+ 
+ 
+ 
+ 
+Six months 
+ended  
+June 30, 2025  
+Three months 
+ended 
+ June 30, 2025  
+Six months 
+ended  
+June 30, 2024 
+ Three months 
+ended 
+ June 30, 2024 
+ '000 RON  '000 RON  '000 RON  '000 RON 
+        
+Cash flows from investing activities        
+        
+Collection from sale of investments in 
+other entities 13   -  
+ 
+-  - 
+Cash placed in bank deposits (3,431,021)   (2,458,287)   (3,205,062)  (231,984) 
+Cash received from bank deposits 
+matured 3,176,681   2,890,752  
+ 
+5,348,009  3,677,926 
+Interest received 106,645   76,534   119,257  79,962 
+Proceeds from sale of non-current assets 336   286   191  - 
+Acquisition of property, plant and 
+equipment  (1,632,334)   (905,337)  
+ 
+(1,210,687)  (759,477) 
+Acquisition of intangible assets (2,027)   (1,078)   (1,271)  (946) 
+Acquisition of exploration assets  (62,405)   (28,889)   (33,629)  (28,174) 
+Subsidies received  -   -   15,800  15,609 
+        
+Net cash used in investing activities (1,844,112)   (426,019)   1,032,608  2,752,916 
+        
+Cash flows from financing activities        
+        
+Repayment of bank borrowings  (161,694)   (80,847)   (161,652)  (80,873) 
+Dividends paid (316)   (296)   (431)  (69) 
+Repayment of lease liability (3,102)   (930)   (2,197)  (797) 
+        
+Net cash used in financing activities (165,112)   (82,073)   (164,280)  (81,739) 
+        
+Net increase/(decrease) in cash and 
+cash equivalents (410,283)  (572) 
+ 
+1,606,920  1,855,085 
+        
+Cash and cash equivalents at the 
+beginning of the period 1,852,154   1,442,443 
+ 
+535,210  287,045 
+        
+Cash and cash equivalents at the end 
+of the period 1,441,871  1,441,871 
+ 
+2,142,130  2,142,130 
+ 
+ 
+These financial statements were authorized for issue by the Board of Directors on August 13, 2025. 
+ 
+ 
+    
+Răzvan Popescu  Gabriela Trânbițaș 
+Chief Executive Officer  Chief Financial Officer 
+ 
+S.N.G.N. ROMGAZ S.A. GROUP 
+ 
+ 
+NOTES  
+ 
+ 
+ 
+7 
+1. BACKGROUND AND GENERAL BUSINESS 
+Information regarding Societatea Națională de Gaze Naturale Romgaz S.A. Group (the “Group”)  
+The Group is formed of S ocietatea Națională de Gaze Naturale Romgaz S.A. ( “S.N.G.N. Romgaz S.A .”/”the 
+Company”/"Romgaz"), as parent company , and its fully owned subsidiar ies S.N.G.N. ROMGAZ S.A. - Filiala de 
+Înmagazinare Gaze Naturale DEPOGAZ Ploiești S.R.L. (“Depogaz”)  and Romgaz Black Sea Limited . Depogaz is the 
+main gas storage operator in Romania. Romgaz Black Sea Limited holds 50% of the rights and obligations for the 
+Neptun Deep offshore block. 
+Romgaz is a joint stock company, incorporated in accordance with the Romanian legislation.  The Company is listed 
+on the Bucharest Stock Exchange. 
+The Company’s headquarter is in Mediaş, 4 Constantin I. Motaş Square, 551130, Sibiu County.  
+The Romanian State, through the Ministry of Energy, is the majority shareholder of Romgaz together with  other 
+legal entities and physical persons. 
+The Group has as main activities: 
+1. geological research for the discovery of natural gas, crude oil and condensate reserves; 
+2. operation, production and usage, including trading, of mineral resources; 
+3. natural gas production for: 
+• ensuring the storage flow continuity; 
+• technological consumption; 
+• delivery in the transmission system. 
+4. underground storage of natural gas; 
+5. commissioning, interventions, capital repairs for wells equipping the deposits, as well as the natural gas 
+resources extraction wells, for its own activity and for third parties; 
+6. electricity production and supply. 
+2. MATERIAL ACCOUNTING POLICIES  
+Statement of compliance 
+The condensed consolidated interim financial statements (“financial statements”) of the Group have been 
+prepared in accordance with the provisions of International Accounting Standard 34 “Interim Reporting”. For the 
+purpose of the preparation of these financial statements, the functional currency of the Company and its 
+subsidiaries is deemed to be the Romanian Leu (RON). IFRS as adopted by the EU differ in certain respects from 
+IFRS as issued by the International Accounting Standards Board (IASB), however, the differences have no material 
+impact on the Group’s financial statements for the periods presented. 
+Basis of preparation 
+The financial statements are prepared on a going concern basis. The principal accounting policies are set out 
+below. The same accounting policies, methods of computation and presentation were followed in the preparation  
+of these financial statements as were applied in the most recent annual financial statements.  
+Accounting is kept in Romanian and in the national currency  (Romanian leu) . Items included in these financial 
+statements are denominated in Romanian lei. Unless otherwise stated, the amounts are presented in lei thousand 
+(RON thousand). 
+Standards and interpretations valid for the current period 
+The following amendments to existing standards issued by the IASB and adopted by the EU have entered into force 
+for the current period: 
+• Amendments to IAS 21 “The Effects of Changes in Foreign Exchange Rates ”: Lack of Exchangeability 
+(applicable to annual periods beginning on or after 1 January 2025).  
+The adoption of these amendments to existing standards has not led to changes in the Group's accounting policies.  
+ 
+S.N.G.N. ROMGAZ S.A. GROUP 
+ 
+ 
+NOTES  
+ 
+ 
+ 
+8 
+Standards and interpretations issued by IASB and adopted by the EU, but not yet effective  
+At the date of issue of the financial statements, the following amendments and improvements  were adopted by 
+the EU, but not yet effective:  
+• Annual Improvements Volume 11 (applicable to annual periods beginning on or after 1 January 2026); 
+• Contracts Referencing Nature-dependent Electricity – Amendments to IFRS 9 and IFRS 7  (applicable to annual 
+periods beginning on or after 1 January 2026); 
+• Amendments to the Classification and Measurement of Financial Instruments  – Amendments to IFRS 9 and IFRS 
+7 (applicable to annual periods beginning on or after 1 January 2026). 
+The Group did not adopt th ese amendments and improvements before their effective date. The Group does not 
+expect these amendments and improvements to have a significant impact on the financial statements. 
+Standards and interpretations issued by IASB not yet endorsed by the EU  
+At present, IFRS endorsed by the EU do not significantly differ from IFRS adopted by the IASB except for 
+the following standards  which were not endorsed for use in  the EU as at date of publication of financial 
+statements: 
+• IFRS 18 “Presentation and Disclosure in Financial Statements ” (applicable to annual periods beginning on or 
+after 1 January 2027); 
+• IFRS 19 “Subsidiaries without Public Accountability: Disclosures” (applicable to annual periods beginning on or 
+after 1 January 2027). 
+The Group is currently evaluating the effect that the adoption of these standards  will have on the financial 
+statements of the Group in the period of initial application.  
+Seasonality and cyclicality 
+Natural gas consumption is seasonal and affected by weather conditions, being highest in wintertime.  
+Gas quantities sold during the first six months of the year represent approximately 54% (gas quantities sold during 
+the first three months of the year represent approximately 29%)  of the total annual sales. While prices are not 
+influenced by seasonality, they are affected by changes in government legislation and m arket conditions, which 
+impact revenue and accounts receivable balances to a larger extent than quantities sold. 
+Electricity production and sales of the Group are not significantly impacted by seasonality. 
+Regarding the gas storage activity, injection normally happens during the period April -October, while gas is usually 
+being extracted during the period November-March. 
+ 
+S.N.G.N. ROMGAZ S.A. GROUP 
+ 
+ 
+NOTES 
+ 
+ 
+ 
+9 
+3. REVENUE AND OTHER INCOME 
+ 
+Six months 
+ended  
+June 30, 2025  
+Three months 
+ended  
+June 30, 2025 
+ Six months 
+ended  
+June 30, 2024  
+Three months 
+ended  
+June 30, 2024 
+ '000 RON  '000 RON  '000 RON  '000 RON 
+        
+Revenue from gas sold, including 
+fulfilling activities - own 
+production 3,682,721   1,617,473  
+ 
+3,386,179  1,390,956 
+Revenue from gas sold – other 
+arrangements 11,754   5,625  
+ 
+12,479  6,143 
+Revenue from gas acquired for resale 23,172   96   152  - 
+Revenue from storage services-
+capacity reservation  148,727   75,666  
+ 
+144,446  70,607 
+Revenue from storage services-
+extraction 62,017   1,977  
+ 
+61,381  2,100 
+Revenue from storage services-
+injection  64,809   62,365  
+ 
+48,271  45,312 
+Revenue from electricity 177,320  64,195  180,011  70,688 
+Revenue from services 13,955  10,242  13,162  9,964 
+Revenue from sale of goods  58,299   26,891   45,398  25,264 
+Other revenues from contracts 579   307    268  165 
+Total revenue from contracts with 
+customers 4,243,353   1,864,837  
+ 
+3,891,747  1,621,199 
+Other revenues 4,712   2,855   5,192  2,728 
+         
+Total revenue 4,248,065  1,867,692   3,896,939  1,623,927 
+Other operating income  7,893   3,205   38,319  7,062 
+Total revenue and other income 4,255,958   1,870,897   3,935,258  1,630,989 
+  
+ 
+Six months 
+ended  
+June 30, 2025  
+Three months 
+ended  
+June 30, 2025 
+ Six months 
+ended  
+June 30, 2024  
+Three months 
+ended  
+June 30, 2024 
+ '000 RON  '000 RON     
+        
+Revenue at a point in time 3,903,370   1,714,746   3,554,154  1,469,949 
+Revenue over time 339,983   150,091   337,593  151,250 
+Total revenue from contracts with 
+customers 4,243,353   1,864,837  
+ 
+3,891,747 
+ 
+1,621,199 
+4. COST OF COMMODITIES SOLD, RAW MATERIALS AND CONSUMABLES USED 
+ 
+Six months 
+ended  
+June 30, 2025  
+Three months 
+ended  
+June 30, 2025 
+ Six months 
+ended  
+June 30, 2024  
+Three months 
+ended  
+June 30, 2024 
+ '000 RON  '000 RON     
+        
+Consumables used 72,435  39,003  56,144  29,710 
+Technological consumption 18,994  9,150  17,577  8,595 
+Other consumables 5,529  2,112  3,856  1,666 
+        
+Total raw materials and consumables 96,958  50,265  77,577  39,971 
+        
+Cost of gas acquired for resale 23,170  105  153  7 
+Cost of electricity imbalances * 34,207  20,869  51,374  32,476 
+Cost of other goods sold 902    436  566  341 
+        
+Total cost of commodities sold 58,279   21,410  52,093  32,824 
+*) Imbalances are generated when quantities actually delivered are lower than the quantities contracted. The 
+difference must be purchased. 
+ 
+ 
+S.N.G.N. ROMGAZ S.A. GROUP 
+ 
+ 
+NOTES 
+ 
+ 
+ 
+10 
+5. OTHER GAINS AND LOSSES 
+ 
+Six months 
+ended  
+June 30, 2025  
+Three months 
+ended  
+June 30, 2025 
+ Six months 
+ended  
+June 30, 2024  
+Three months 
+ended  
+June 30, 2024 
+ '000 RON  '000 RON  '000 RON  '000 RON 
+        
+Foreign exchange gain 54,940  50,365  1,390  (568) 
+Foreign exchange loss (78,875)  (75,704)  (3,405)  (1,669) 
+Net gain/(loss) on disposal of non-
+current assets (7,317)  (1,487) 
+ 
+(4,162)  (2,742) 
+Net allowances for other receivables 
+(note 10 c) (345)   (299) 
+ 
+(387)  (398) 
+Net write down allowances for 
+inventory  (3,583)  (389) 
+ 
+(3,393)  (1,561) 
+Total net gain/(net loss) (35,180)  (27,514)  (9,957)  (6,938) 
+ 
+6. DEPRECIATION, AMORTIZATION AND IMPAIRMENT EXPENSES 
+ 
+Six months 
+ended  
+June 30, 2025  
+Three months 
+ended  
+June 30, 2025 
+ Six months 
+ended  
+June 30, 2024  
+Three months 
+ended  
+June 30, 2024 
+ '000 RON  '000 RON  '000 RON  '000 RON 
+        
+Depreciation and amortization  251,033  124,359  255,981  123,349 
+out of which:        
+- depreciation of property, plant and 
+equipment 245,707  121,699 
+ 
+250,607  120,715 
+- amortization of intangible assets  3,138   1,468  3,508  1,701 
+- amortization of right of use assets  2,188   1,192   1,866  933 
+Net impairment of property, plant and 
+equipment, including exploration 
+assets*) 94,501   43,481  
+ 
+24,758  14,564 
+ 
+Total depreciation, amortization and 
+impairment 345,534  167,840 
+ 
+280,739  137,913 
+*) The impairment recorded during the 6 months period ended 30 june 2025 refers to individual assets; such assets 
+are fully impaired  
+7. INCOME TAX 
+ 
+Six months 
+ended  
+June 30, 2025  
+Three months 
+ended  
+June 30, 2025 
+ Six months 
+ended  
+June 30, 2024  
+Three months 
+ended  
+June 30, 2024 
+ '000 RON  '000 RON  '000 RON  '000 RON 
+        
+Current tax expense  339,535  137,412  343,940  105,878 
+Deferred income tax 
+(income)/expense  (5,824)  3,241 
+ 
+(12,106)  (15,594) 
+        
+Income tax expense 333,711  140,653  331,834  90,284 
+8. EMPLOYEE BENEFIT EXPENSE   
+  
+Six months 
+ended  
+June 30, 2025  
+Three months 
+ended  
+June 30, 2025 
+ Six months 
+ended  
+June 30, 2024  
+Three months 
+ended  
+June 30, 2024 
+ '000 RON   '000 RON   '000 RON  '000 RON 
+        
+Wages and salaries 491,893  259,951  456,052  230,602 
+Social security charges 19,758  11,057  17,537  9,526 
+Meal tickets 23,757  11,700  24,506  11,802 
+Other benefits according to collective 
+labor contract 11,083  7,395 
+ 
+2,389  1,420 
+Private pension payments 5,600  2,790  5,647  2,821 
+Private health insurance 5,582  2,810  5,619  2,807 
+ 
+S.N.G.N. ROMGAZ S.A. GROUP 
+ 
+ 
+NOTES 
+ 
+ 
+ 
+11 
+Total employee benefit expense 557,673  295,703  511,750  258,978 
+9. TAXES AND DUTIES 
+ 
+Six months 
+ended  
+June 30, 2025  
+Three months 
+ended  
+June 30, 2025 
+ Six months 
+ended  
+June 30, 2024  
+Three months 
+ended  
+June 30, 2024 
+ '000 RON  '000 RON     
+        
+Royalties   292,296    131,072   274,515  89,824 
+Windfall tax  475,263    153,664   382,605  305,216 
+Energy transition fund  13,461    -   6,396  1,252 
+Other taxes and duties  14,289    6,689  
+ 4,900  2,079 
+        
+Total 795,309  291,425  668,416  398,371 
+10.  ACCOUNTS RECEIVABLE 
+a) Trade and other receivables 
+ June 30, 2025  December 31, 2024 
+ '000 RON  '000 RON 
+    
+ Trade receivables* 1,470,410   1,351,702  
+Allowances for expected credit losses (note 10 c)  (521,652)  (513,897)  
+    
+Total  948,758  837,805  
+*) Trade receivables as of June 30, 2025 include RON 157,024 thousand (December 31, 2024: RON 161,531 
+thousand) that have to be paid by the Ministry of Ene rgy (for non-household clients) and the Ministry of Labor (for 
+household clients) based on Government Emergency Ordinance no. 27/2022. 
+Trade receivables from gas deliveries are generally due within 30 days of invoice issue. These must be guaranteed 
+by customers through bank letters of guarantee. If customers do not provide such a guarantee, they must ensure 
+that natural gas is paid in advance. 
+Trade receivables from the sale of electricity are generally due within 7 days of the date of invoice delivery. These 
+must be guaranteed by customers through bank letters of guarantee. If customers do not provide such a 
+guarantee, they must ensure that electricity is paid in advance. 
+Trade receivables from storage services are due within 15 days of invoice issue. Customers must provide a 5% 
+guarantee for the services value. 
+b) Other assets 
+ June 30, 2025  December 31, 2024 
+ '000 RON  '000 RON 
+    
+Advances paid to suppliers 42,167   2,122  
+Joint operation receivables 6,397   2,932  
+Other receivables 35,328   35,458 
+Allowance for expected credit losses other 
+receivables (note 10 c)  (170)   (169)  
+Other debtors 46,940   46,673  
+Allowance for expected credit losses for other 
+debtors (note 10 c) (46,392)   (46,048)  
+Prepayments 29,142   6,796  
+VAT not yet due 5,074   10,312  
+Other taxes receivable  37,757   21,286 
+    
+Total 156,243   79,362    
+ 
+S.N.G.N. ROMGAZ S.A. GROUP 
+ 
+ 
+NOTES 
+ 
+ 
+ 
+12 
+c) Changes in the allowance for expected credit losses for trade and other receivables and other assets 
+ 2025  2024 
+ '000 RON  '000 RON 
+    
+At January 1 560,114   599,762 
+    
+Charge in the allowance for other receivables 
+(note 5, note 10 b)  536     404   
+Charge in the allowance for trade receivables 
+(note 10 a)  9,510  2,453 
+Write-off against trade receivables (129)  (1,187) 
+Release in the allowance for other receivables 
+(note 5, note 10 b)  (191)  (17) 
+Release in the allowance for trade receivables 
+(note 10 a) (1,626)   (5,392) 
+    
+At June 30 568,214             596,023  
+11. PROVISIONS  
+ June 30, 2025  December 31, 2024 
+ '000 RON  '000 RON 
+    
+Decommissioning provision (see below) 356,417   351,789 
+Retirement benefit obligation  203,624   204,550  
+ 
+Total long-term provisions and obligations 560,041  556,339 
+ 
+Decommissioning provision (see below) 35,194   28,936  
+Litigation provision  2,050   6,579  
+Other provisions  76,777   127,174 
+ 
+Total short-term provisions 114,021  162,689 
+    
+Total  674,062   719,028   
+Decommissioning provision 
+Decommissioning provision movement  2025  2024  
+ '000 RON  '000 RON 
+    
+At January 1  380,725   405,585 
+    
+Additional provision recorded against non-current 
+assets 190   277 
+Unwinding effect 12,910   11,664 
+Recorded in profit or loss  (966)   (1,709) 
+Decrease recorded against non-current assets  (1,248)   (6,155) 
+    
+At June 30 391,611   409,662 
+12. SHARE CAPITAL. EARNINGS PER SHARE 
+a) Share capital 
+The shareholding structure presenting the main shareholders as at June 30, 2025 is as follows: 
+ No. of shares   Value   Percentage  
+    ‘000 RON  (%) 
+      
+The Romanian State through the 
+Ministry of Energy 2,698,230,800  2,698,231  70.01 
+Legal entities 984,913,663  984,914  25.55 
+Physical persons 171,079,537  171,079  4.44 
+       
+Total 3,854,224,000  3,854,224   100 
+ 
+S.N.G.N. ROMGAZ S.A. GROUP 
+ 
+ 
+NOTES 
+ 
+ 
+ 
+13 
+All shares are ordinary and were subscribed a nd fully paid as at June 30, 2025. All shares carry equal voting rights 
+and have a nominal value of RON 1/share (December 31, 2024: RON 1/share). 
+b) Earnings per share 
+In December 2023 the Extraordinary General Meeting of  Shareholders approved Romgaz’ share capital increase 
+through the incorporation of reserves of RON 3,468,802 thousand by issuing 3,468,801,600 shares with a nominal 
+value of RON 1/share, each shareholder registered on the Registration Date being entitled to 9 free shares for 
+each share held. The increase was registered in January 2024 at the Trade Register.  
+Since the share capital increase did not involve any corresponding cash contributions, there was no change in the  
+Company's resources and therefore the denominator for all periods presented for the earnings per share 
+calculation  was the revised number of shares.  
+ 
+Six months 
+ended  
+June 30, 2025  
+Three months 
+ended  
+June 30, 2025 
+ Six months 
+ended  
+June 30, 2024  
+Three months 
+ended  
+June 30, 2024 
+        
+        
+Profit for the period attributable to 
+ordinary shareholders (RON 
+thousand) 1,679,237  728,260 
+ 
+1,837,213  591,886 
+Number of shares outstanding during 
+the year 3,854,224,000  3,854,224,000 
+ 
+3,854,224,000  3,854,224,000 
+Earnings per share (RON thousand) 0.00044  0.00019  0.00048  0.00015 
+13. CASH AND CASH EQUIVALENTS. BANK DEPOSITS OTHER THAN CASH AND CASH EQUIVALENTS 
+a) Cash and cash equivalents 
+ June 30, 2025  December 31, 2024 
+ '000 RON  '000 RON 
+    
+Current bank accounts *) 191,781   147,564  
+Petty cash 30   40  
+Term deposits 1,248,662  1,702,835  
+Restricted cash **) 1,398   1,715  
+    
+Total 1,441,871   1,852,154  
+*) Current bank accounts include overnight deposits. 
+**) At June 30, 2025 restricted cash refers to bank accounts used only for dividend payments to shareholders, 
+according to stock market regulations.  
+b) Bank deposits other than cash and cash equivalents 
+Bank deposits other than cash and cash equivalents represent deposits with a maturity of over 3 months, from 
+acquisition date. The Group did not identify any risk of loss for these assets, therefore it did not record any 
+impairment. 
+ June 30, 2025  December 31, 2024 
+ '000 RON  '000 RON 
+    
+Bank deposits 2,868,111  2,601,095 
+Accrued interest receivable on bank deposits 20,677   24,244 
+ 
+Total 2,888,788  2,625,339 
+ 
+S.N.G.N. ROMGAZ S.A. GROUP 
+ 
+ 
+NOTES 
+ 
+ 
+ 
+14 
+14. TRADE AND OTHER LIABILITIES. DEFERRED INCOME 
+a) Trade and other liabilities 
+ June 30, 2025  December 31, 2024 
+ '000 RON  '000 RON 
+    
+Accruals 76,012  121,896  
+Trade payables 76,241   28,414  
+Payables to fixed assets suppliers 387,302   306,460  
+ 
+Total trade payables 539,555  456,770  
+    
+Payables related to employees 42,821   46,469  
+Royalties  130,847   162,847  
+Contribution to Energy Transition Fund -   6,510  
+Social security taxes 33,784   41,207  
+Other current liabilities  10,908   14,183 
+Greenhouse gas certificates submission liability *) 185,314   137,244 
+VAT 340   18,070  
+Dividends payable **) 605,391   1,365  
+Windfall tax 34,107   114,527  
+Other taxes  4,828   3,925  
+ 
+Total other liabilities  1,048,340   546,347  
+    
+Total trade and other liabilities 1,587,895  1,003,117 
+*) According to legislation, greenhouse gas certificates must be submitted to the relevant bodies until September, 2025. The 
+balance as of June 30, 2025 relates to certificates acquired in 2024 and 2025, not yet submitted. 
+**) The increase in dividends payable is due to the distribution of profit and retained earnings decided by shareholders in 202 5. 
+Dividends were paid in July, 2025. 
+b) Deferred income 
+ June 30, 2025  December 31, 2024 
+ '000 RON  '000 RON 
+Amounts collected from NIP *)  292,446  292,446 
+Amounts collected from CINEA  94,192  94,192 
+Other deferred revenue 116  122 
+Other amounts received as subsidies 85  89 
+Total long term deferred income 386,839  386,849 
+    
+Other amounts received as subsidies 381  486 
+Total short term deferred income 381  486 
+    
+Total deferred income 387,220  387,335 
+*) In Government Decision no. 1096/2013 approving the mechanism for free allocation of greenhouse gas emission 
+allowances to electricity producers for the period 2013 -2020, Annex no. 3 "National Investment Plan", Romgaz is 
+included with the investment "Combined Gas Turbine Cycle". 
+For this investment, in 2017 Romgaz signed a financing agreement with the Ministry of Energy, whereby the 
+Ministry of Energy undertakes to grant a non -reimbursable financing of RON 320,912 thousand, representing a 
+maximum of 25% of the total value of eligible expenditure of the investment. By June 30 , 202 5 the Group 
+ 
+S.N.G.N. ROMGAZ S.A. GROUP 
+ 
+ 
+NOTES 
+ 
+ 
+ 
+15 
+collected RON 292,446 thousand. Amounts received under this contract will be transferred to income based on the 
+depreciation rate of the investment. No income was recognized by June 30, 2025  as the plant was not yet 
+commissioned. 
+As per Government Decision no. 569/June 18, 2025  the completion and commissioning period of investments 
+financed from the National Investment Plan was extended until December 31, 2025 and the reimbursement period 
+until June 30, 2026. If the plant is not commissioned by June 30, 202 6, the government grant must be repaid to 
+the Ministry of Energy. 
+15. PROPERTY, PLANT AND EQUIPMENT 
+In the six-month period ended June 30, 2025, the Group recognized additions to property, plant and equipment of 
+RON 1,828,887 thousand, of which RON 1,427,882 thousand related to the development of the Neptun Deep 
+Project and RON 80,515 thousand for the new power plant in Iernut. Neptun Deep Project is developed by the 
+Group as part of a joint operation in which both partners have equal share. 
+Additions to property, plant and equipment include RON 24,544 thousand representing borrowing costs capitalized. 
+Depreciation, amortization and impairment in the six-month period ended June 30 , 202 5 was of RON 340,208 
+thousand and in three-month period ended June 30, 2025 was RON 165,180 thousand (six months ended June 30, 
+2024: RON 275,365 thousand and in the three months ended June 30, 2024: RON 135,279 thousand). 
+16. BANK BORROWINGS. BONDS 
+a) Bank borrowings 
+  Maturity  
+June 30,  
+2025  
+December 31, 
+2024 
+    '000 RON  '000 RON 
+       
+EUR 325,000 thousand bank borrowing (equivalent of RON  
+1,617,558 thousand at RON 4.9771/EUR 1) (unsecured)   June 2027  660,145  808,346 
+RON 745,875 thousand revolving credit facility (unsecured)   September 2027  -  - 
+EUR 100,000 thousand revolving credit facility (equivalent 
+of RON 497,710 thousand at RON 4.9771/EUR 1) 
+(unsecured)   December 2026  -  - 
+RON 250,000 thousand investment credit contract 
+(secured)  August 2037  -  - 
+Total    660,145  808,346 
+The fair value of the loans approximates their carrying amount as they carry a variable rate of interest. 
+b)  Bonds 
+ 2025  2024 
+ '000 RON  '000 RON 
+    
+Carrying amount as at January 1 2,500,978  - 
+Interest charged 60,424  - 
+Foreign exchange differences 53,188  - 
+ 
+Carrying amount as at June 30 2,614,590  - 
+The bonds’ carrying value approximate their fair value.  
+17. RELATED PARTY TRANSACTIONS AND BALANCES 
+(i) Sales of goods and services 
+ 
+Six months 
+ended  
+June 30, 2025  
+Three months 
+ended  
+June 30, 2025 
+ Six months 
+ended  
+June 30, 2024  
+Three months 
+ended  
+June 30, 2024 
+ '000 RON  '000 RON  '000 RON  '000 RON 
+        
+Romgaz’s associates 7,048   5,198   6,517  5,113 
+        
+Total 7,048   5,198   6,517  5,113 
+ 
+S.N.G.N. ROMGAZ S.A. GROUP 
+ 
+ 
+NOTES 
+ 
+ 
+ 
+16 
+(ii) Government related entities 
+The Group is controlled by the Ministry of Energy, on behalf of the Romanian State. As such, all companies over 
+which the Romanian State has control or significant influence are considered related parties  of the Group . The 
+Group applies the disclosure exemption for Government related entities in IAS 24, and therefore discloses 
+significant transactions and balances. Except for the transactions listed below, no other individually significant 
+transactions or collectively significant transactions were identified.  Related party transactions are carried out on 
+market terms and there are no transactions outside normal day-to-day operations. 
+The table below shows the collectively significant sales of the Group to companies over which the Romanian State 
+has control or significant influence: 
+ 
+Six months 
+ended  
+June 30, 2025  
+Three months 
+ended  
+June 30, 2025 
+ Six months 
+ended  
+June 30, 2024  
+Three months 
+ended  
+June 30, 2024 
+ '000 RON  '000 RON  '000 RON  '000 RON 
+        
+Electrocentrale București SA 580,944   249,699  344,051  144,376 
+Engie România SA 443,240   281,218   821,739  209,494 
+E.On Energie România SA 1,333,705   766,011   1,150,279  460,497 
+        
+Total 2,357,889   1,296,928   2,316,069  814,367 
+The table below shows the collectively significant cash and cash equivalents and bank deposits other than cash and 
+cash equivalents at banks controlled by the Romanian State. 
+ June 30, 2025  December 31, 2024 
+ '000 RON  '000 RON 
+    
+CEC Bank 213,427   - 
+Exim Banca Românească 1,173,596  988,086 
+    
+Total 1,387,023  988,086 
+(iii) Government related entities – joint arrangements 
+The Group has OMV Petrom SA as related party, due to the Romanian State having control in Romgaz and 
+significant influence in OMV Petrom SA.  
+OMV Petrom SA is the operator of the joint arrangement in which Romgaz Black Sea Limited is a partner. Total 
+costs charged to Romgaz Black Sea Limited represent mainly additions of capital work in progress related to the 
+development of the offshore Neptun Deep block of which the Group capitalized in the first six months of 2025 RON 
+1,403,367 thousand (June 30, 2024: RON 921,793 thousand). 
+18. SEGMENT INFORMATION 
+Segment revenues, results and other segment information 
+Six months ended  
+June 30, 2025 Upstream  Storage  Electricity  Other  
+Adjustments 
+and 
+eliminations  Total 
+ '000 RON  '000 RON  '000 RON  '000 RON  '000 RON  '000 RON 
+            
+Revenue 4,000,296   297,238   263,512   246,679   (559,660)   4,248,065  
+Less: revenue between 
+segments (211,334)   (21,648)   (85,712)   (240,966)   559,660   -  
+Third party revenue 3,788,962   275,590   177,800   5,713   -  4,248,065  
+Segment result 
+(profit/(loss)) before 
+tax 2,124,314  117,305  (127,555)   (86,680)  (14,436)  2,012,948 
+ 
+S.N.G.N. ROMGAZ S.A. GROUP 
+ 
+ 
+NOTES 
+ 
+ 
+ 
+17 
+ 
+Three months ended  
+June 30, 2025 Upstream  Storage  Electricity  Other  
+Adjustments 
+and 
+eliminations  Total 
+ '000 RON  '000 RON  '000 RON  '000 RON  '000 RON  '000 RON 
+            
+Revenue 1,758,308   142,190   98,371   138,674   (269,851)   1,867,692  
+Less: revenue between 
+segments (98,568)   (2,163)   (33,826)   (135,294)   269,851   - 
+Third party revenue 1,659,740   140,027   64,545   3,380  -   1,867,692  
+Segment result 
+(profit/(loss)) before 
+tax 974,280  28,811   (93,236)   (26,828)    (14,114)  868,913 
+ 
+Six months ended  
+June 30, 2024 Upstream  Storage  Electricity  Other  
+Adjustments 
+and 
+eliminations  Total 
+ '000 RON  '000 RON  '000 RON  '000 RON  '000 RON  '000 RON 
+            
+Revenue 3,628,198  281,626  254,420  231,562  (498,867)  3,896,939 
+Less: revenue between 
+segments (171,213)  (27,509)  (73,982)  (226,163)  498,867  - 
+Third party revenue 3,456,985  254,117  180,438  5,399  -   3,896,939 
+Segment result 
+(profit/(loss)) before 
+tax 2,174,006  114,955  (124,676)  98,794  (94,032)  2,169,047 
+ 
+Three months ended  
+June 30, 2024 Upstream  Storage  Electricity  Other  
+Adjustments 
+and 
+eliminations  Total 
+ '000 RON  '000 RON  '000 RON  '000 RON  '000 RON  '000 RON 
+            
+Revenue 1,511,494  139,926  106,773  122,078  (256,344)   1,623,927 
+Less: revenue between 
+segments (80,292)  (21,898)  (35,782)  (118,372)  256,344  - 
+Third party revenue 1,431,202  118,028  70,991  3,706  -   1,623,927 
+Segment result 
+(profit/(loss)) before 
+tax 738,451  43,039  (78,892)  45,476  (65,904)  682,170 
+19. GUARANTEES GRANTED BY BANKS. CONTRACTUAL COMMITMENTS FOR THE ACQUISITION OF NON-CURRENT 
+ASSETS 
+ 
+(a) Guarantees granted by banks 
+In 2024, Romgaz signed a n addendum to the  credit agreement with Banca Comercială Română SA  representing a 
+facility for issuing letters of guarantee  and opening letters of credit for a maximum amount of RON 500,000 
+thousand. On June 30, 2025 are still available for use RON 402,984 thousand. 
+(b) Contractual commitments for the acquisition of non-current assets 
+As of June 30, 2025, the Group’s contractual commitments for the acquisition of non -current assets are of  RON 
+3,898,197 thousand (December 31, 2024: RON 4,668,993 thousand). 
+ 
+20. EVENTS AFTER THE BALANCE SHEET DATE  
+          No events subsequent to the balance sheet date were identified. 
+21. AUTHORIZATION OF FINANCIAL STATEMENTS 
+These financial statements were authorized for issue by the Board of Directors on August 13, 2025.  
+ 
+    
+Răzvan Popescu  Gabriela Trânbițaș 
+Chief Executive Officer         Chief Financial Officer 
+ 
+ 
+ 
+ 
+ 
+ 
+Societatea Naţională  T: 004-0374 – 401020 551130, Mediaş Capital social: 3.854.224.000 lei 
+de Gaze Naturale  F: 004-0269-846901 Piața C.I. Motaş, nr.4  CIF: RO 14056826 
+Romgaz S.A. E: secretariat@romgaz.ro Jud. Sibiu – România Nr.ord.reg.com: J2001000392326 
+ 
+ 
+ 
+ 
+STATEMENT  
+in accordance with the provisions of art. 67 (2) c) of  Law No. 24/2017 
+regarding issuers of financial instruments and market operations  
+ 
+_______________________________________________________________________________ 
+Entity: Societatea Nationala de Gaze Naturale ROMGAZ S.A. 
+County: 32--SIBIU 
+Address: MEDIAŞ, 4 C.I. Motaş Square, tel. +40374401020 
+Registration Number in the Trade Register: J2001000392326 
+Form of Property: 26- Companies with both  state and private capital foreign and domestic (State 
+capital >=50%) 
+Main activity (CAEN code and denomination): 0620—Natural Gas Production 
+Tax Identification Number: 14056826 
+ 
+ 
+The undersigned, 
+RĂZVAN POPESCU as Chief Executive Officer and 
+GABRIELA TRÂNBIȚAȘ as Chief Financial Officer, 
+ 
+hereby confirm that  according to our knowledge, the condensed consolidated interim financial 
+statements for the six-month period ended June 30, 2025, prepared in accordance with the 
+International Accounting Standard 34, as adopted by the European Union, offer a true and fair 
+view of the assets, liabilities, financial position, statement of profit and loss of the Group and that 
+the Board of Directors’ report offers a fair and complete disclosure of the Group’s information.  
+ 
+ 
+ 
+    Chief Executive Officer,               Chief Financial Officer, 
+    RĂZVAN POPESCU                                            GABRIELA TRÂNBIȚAȘ
