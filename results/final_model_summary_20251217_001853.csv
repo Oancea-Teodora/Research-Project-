@@ -1,0 +1,2 @@
+timestamp,best_model,overall_accuracy,news_days_accuracy,no_news_days_accuracy,precision,recall,f1,target_achieved
+20251217_001853,LightGBM-2,0.640625,0.64,0.6410256410256411,0.6842105263157895,0.7027027027027027,0.6933333333333334,YES
